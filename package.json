@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+        "@atproto/api": "^0.6.20",
+        "cron": "^3.1.0",
+        "dotenv": "^16.3.1",
+        "process": "^0.11.10"
+    },
+    "name": "bluesky-bot",
+    "version": "1.0.0",
+    "description": "Bluesky Bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.13.9",
+        "typescript": "^5.8.2"
+    }
+}
