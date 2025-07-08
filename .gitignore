@@ -3,6 +3,10 @@ node_modules/
 
 # local configuration
 .vscode/
+*.txt
 
 # environment variable files
 .env
+
+# compiled files
+*.js
