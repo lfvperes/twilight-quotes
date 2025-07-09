@@ -16,21 +16,28 @@ async function main() {
         if (data != undefined) {            
             let subtIDNoMusicStr: RegExpMatchArray | null;
             subtIDNoMusicStr = data.match(/[0-9]+(?=\n.+-->.+\n[^♪].+(\n.+)*)/g);
-    
+            
             if (subtIDNoMusicStr == null) {
                 console.log(`no matches found for ${i}.srt`);
                 continue;
             }
-
+            
             const subtIDNoMusicInt = subtIDNoMusicStr?.map( idStr => parseInt(idStr) + i * 10000)
-
+            
             allIDs.push(...subtIDNoMusicInt)
         }
     }
-     
+    
     const chooseID = Math.floor(Math.random() * allIDs.length + 1);
-    console.log(`${chooseID}: ${allIDs[chooseID]}`)
-
+    console.log(`ID stored in ${chooseID}: ${allIDs[chooseID]}`)
+    
+    const fileNumber = Math.floor(allIDs[chooseID] / 10000);
+    const quoteIdx = allIDs[chooseID] % 10000;
+    console.log(`ID: ${allIDs[chooseID]}, file ${fileNumber}, quote number ${quoteIdx}`);
+    const data = fs.readFileSync(path.join(__dirname, `./subtitles/${fileNumber}.srt`), 'utf8');
+    const regEx = new RegExp(`${quoteIdx}(\n.+-->.+\n[^♪].+(\n.+)*)`, 'g');
+    const pulledQuote = data.match(regEx);
+    console.log(pulledQuote);
 }
 
 main();
