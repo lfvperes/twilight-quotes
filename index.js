@@ -47,8 +47,8 @@ dotenv.config();
 const agent = new api_1.BskyAgent({
     service: 'https://bsky.social',
 });
-const textPath = path.join(__dirname, '../assets', 'text.txt');
-const videoPath = path.join(__dirname, '../assets', 'video.mp4');
+const textPath = path.join(__dirname, './assets', 'text.txt');
+const videoPath = path.join(__dirname, './assets', 'video.mp4');
 async function main() {
     await agent.login({
         identifier: process.env.BLUESKY_USERNAME,
@@ -56,6 +56,7 @@ async function main() {
     });
     console.log(`Logged in as ${agent.session?.handle}`);
     const textContent = (0, readFile_1.default)(textPath);
+    console.log("Text uploaded...");
     const { data } = await agent.com.atproto.repo.uploadBlob(fs.readFileSync(videoPath));
     console.log("Video uploaded, posting...");
     await agent.post({

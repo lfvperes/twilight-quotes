@@ -13,8 +13,8 @@ const agent = new BskyAgent({
     service: 'https://bsky.social',
   })
 
-const textPath = path.join(__dirname, '../assets', 'text.txt');
-const videoPath = path.join(__dirname, '../assets','video.mp4');
+const textPath = path.join(__dirname, './assets', 'text.txt');
+const videoPath = path.join(__dirname, './assets','video.mp4');
 
 async function main() {
     await agent.login({
@@ -24,6 +24,7 @@ async function main() {
     console.log(`Logged in as ${agent.session?.handle}`);
     
     const textContent = readFileToString(textPath);
+    console.log("Text uploaded...")
     const { data } = await agent.com.atproto.repo.uploadBlob(
         fs.readFileSync(videoPath),
     );
