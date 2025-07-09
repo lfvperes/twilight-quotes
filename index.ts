@@ -5,6 +5,7 @@ import * as process from 'process';
 import * as path from 'path';
 import readFileToString from './src/readFile';
 import * as fs from 'fs';
+import createVideoPost from './src/embedVideo'
 
 dotenv.config();
 
@@ -23,25 +24,9 @@ async function main() {
     })
     console.log(`Logged in as ${agent.session?.handle}`);
     
-    const textContent = readFileToString(textPath);
-    console.log("Text uploaded...")
-    const { data } = await agent.com.atproto.repo.uploadBlob(
-        fs.readFileSync(videoPath),
+    await agent.post(
+        await createVideoPost(textPath, videoPath, agent)
     );
-    console.log("Video uploaded, posting...")
-    
-    await agent.post({
-        text: textContent,
-        langs: ["en"],
-        embed: {
-            $type: "app.bsky.embed.video",
-            video: data.blob,
-            aspectRatio: {
-                width: 360,
-                height: 640
-            },
-        },
-    });
 
     console.log("Just posted!")
 }
