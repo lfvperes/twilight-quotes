@@ -11,5 +11,4 @@ node_modules/
 # *.js
 
 # local files and assets
-# *.txt
-# *.mp4
+test.*
