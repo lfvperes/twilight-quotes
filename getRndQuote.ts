@@ -19,5 +19,5 @@ export function randomQuote() {
         console.log(pulledQuote[0]);
     }
 
-    return pulledQuote == null ? [] : pulledQuote[0];
+    return pulledQuote == null ? '' : pulledQuote[0];
 }

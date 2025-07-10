@@ -111,5 +111,5 @@
   //   "esm": true
   // },
   "include": ["/**/*.ts"],
-  "exclude": ["node_modules","src"]
+  "exclude": ["./node_modules/","src"]
 }
