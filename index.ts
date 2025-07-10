@@ -1,12 +1,10 @@
 import { BskyAgent } from '@atproto/api';
 import * as dotenv from 'dotenv';
-import { CronJob } from 'cron';
 import * as process from 'process';
 import * as path from 'path';
 import readFileToString from './src/readFile';
 import * as fs from 'fs';
-import createVideoPost from './src/embedVideo';
-import makeReplyContent from './src/makeReply';
+import { randomQuote } from './getRndQuote'
 
 dotenv.config();
 
@@ -15,8 +13,7 @@ const agent = new BskyAgent({
     service: 'https://bsky.social',
   })
 
-const textPath = path.join(__dirname, './assets', 'text.txt');
-const videoPath = path.join(__dirname, './assets','video.mp4');
+const textContent = randomQuote();
 
 async function main() {
     await agent.login({
@@ -30,15 +27,10 @@ async function main() {
     // );
 
     const recordObj = await agent.post({
-        text: "hiiii"
+        text: textContent
     })
 
-    console.log("Just posted!")
-    console.log(recordObj.uri)
-    
-    await agent.post(makeReplyContent(recordObj, textPath))
-
-    console.log("Just replied!")    
+    console.log(`Just posted: ${textContent} at ${recordObj.uri}`)
 }
 
 main();

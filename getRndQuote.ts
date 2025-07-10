@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-async function main() {
+export function randomQuote() {
     const allIDsStr = fs.readFileSync(path.join(__dirname, `allIDs.txt`), 'utf8');
     const allIDs: number[] = allIDsStr.split('\n').filter(Boolean).map(Number);
     
@@ -15,7 +15,9 @@ async function main() {
     const data = fs.readFileSync(path.join(__dirname, `./subtitles/${fileNumber}.srt`), 'utf8');
     const regEx = new RegExp(`(?<=${quoteIdx}+\n.+-->.+\n)(.+\n)+`, 'g');
     const pulledQuote = data.match(regEx);
-    console.log(pulledQuote[0]);
-}
+    if (pulledQuote != null) {
+        console.log(pulledQuote[0]);
+    }
 
-main();
+    return pulledQuote == null ? [] : pulledQuote[0];
+}
