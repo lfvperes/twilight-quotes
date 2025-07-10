@@ -1,36 +1,28 @@
 1
 00:00:58,388 --> 00:01:01,653
-<i>BELLA: "These violent delights
-have violent ends,</i>
+BELLA: "These violent delights
+have violent ends,
 
 2
 00:01:02,625 --> 00:01:06,220
-<i>"and in their triumph die,
-like fire and powder,</i>
+"and in their triumph die,
+like fire and powder,
 
 3
 00:01:07,563 --> 00:01:10,794
-<i>"which, as they kiss, consume."</i>
+"which, as they kiss, consume."
 
-4
-00:01:13,403 --> 00:01:15,564
-(INDISTINCT CHATTERING)
 
-5
-00:01:19,008 --> 00:01:19,997
-(BELL TOLLS)
 
-6
-00:01:26,616 --> 00:01:28,311
-(PANTING)
+
+
+
 
 7
 00:01:46,102 --> 00:01:47,296
 Gran?
 
-8
-00:01:52,408 --> 00:01:53,432
-(GASPS SOFTLY)
+
 
 9
 00:02:04,020 --> 00:02:06,284
@@ -49,29 +41,21 @@ Okay.
 (IN BELLA'S VOICE)
 Gran, I'd like you to meet...
 
-13
-00:02:48,030 --> 00:02:49,019
-(GASPS)
+
 
 14
 00:03:00,243 --> 00:03:02,108
 Happy birthday, Bella.
 
-15
-00:03:09,152 --> 00:03:10,141
-(GASPS)
 
-16
-00:03:10,219 --> 00:03:11,208
-(KNOCKING ON DOOR)
+
+
 
 17
 00:03:14,991 --> 00:03:16,515
 Happy birthday.
 
-18
-00:03:20,263 --> 00:03:21,252
-(BELLA CLICKS TONGUE)
+
 
 19
 00:03:21,397 --> 00:03:22,921
@@ -100,9 +84,7 @@ Well, she coordinated me.
 It's to put your pictures in
 from senior year.
 
-25
-00:03:46,556 --> 00:03:48,683
-(SIGHS) Senior year.
+ Senior year.
 
 26
 00:03:49,659 --> 00:03:53,288
@@ -117,9 +99,7 @@ I don't know. Is that a gray hair?
 00:03:56,832 --> 00:03:58,265
 No. No way.
 
-29
-00:04:00,369 --> 00:04:01,358
-(SIGHS)
+
 
 30
 00:04:02,405 --> 00:04:03,963
@@ -131,55 +111,49 @@ That's really funny.
 
 32
 00:04:06,509 --> 00:04:09,945
-<i>ANNOUNCER ON RADIO: Another missing
-hiker brings the total to three presumed dead.</i>
+ANNOUNCER ON RADIO: Another missing
+hiker brings the total to three presumed dead.
 
 33
 00:04:10,012 --> 00:04:11,741
-<i>Rangers are searching
-for the killer animal...</i>
+Rangers are searching
+for the killer animal...
 
-34
-00:04:11,814 --> 00:04:12,940
-(SWITCHING RADIO STATION)
 
-35
-00:04:13,015 --> 00:04:14,107
-<i>(MONSTERS</i> PLAYING)
+
+
 
 36
 00:04:14,183 --> 00:04:16,981
-<i>Situation's all critical</i>
+Situation's all critical
 
 37
 00:04:17,053 --> 00:04:20,921
-<i>You've got to look first before you go</i>
+You've got to look first before you go
 
 38
 00:04:20,990 --> 00:04:22,890
-<i>ERIC: It's Bella. Bella!</i>
+ERIC: It's Bella. Bella!
 
 39
 00:04:23,292 --> 00:04:24,816
 - Hi.
-<i>- MIKE: I'm...</i>
+- MIKE: I'm...
 
 40
 00:04:27,029 --> 00:04:29,122
-<i>JESSICA: Today's the big day, Bella.</i>
+JESSICA: Today's the big day, Bella.
 
 41
 00:04:30,032 --> 00:04:31,795
-<i>R and J</i> essay due.
+R and J essay due.
 
 42
 00:04:32,101 --> 00:04:35,264
 - Oh, yeah.
 - Wherefore art thou, Bella?
 
-43
-00:04:35,338 --> 00:04:36,362
-(ALL LAUGH)
+
 
 44
 00:04:36,439 --> 00:04:40,273
@@ -192,8 +166,8 @@ a scrapbook full of memories.
 
 46
 00:04:41,544 --> 00:04:42,533
-<i>ERIC: Oh.
-MIKE: Cool. Yeah.</i>
+ERIC: Oh.
+MIKE: Cool. Yeah.
 
 47
 00:04:42,612 --> 00:04:43,977
@@ -202,7 +176,7 @@ I take them. I'm not in them.
 48
 00:04:44,046 --> 00:04:45,445
 - No, no, no, come here.
-<i>- BELLA: Well, you are today.</i>
+- BELLA: Well, you are today.
 
 49
 00:04:45,514 --> 00:04:46,879
@@ -211,20 +185,18 @@ if my nose looks big, right?
 
 50
 00:04:46,949 --> 00:04:50,783
-<i>ERIC: Don't worry, I'm in the picture.
-No one will be looking at you guys.</i>
+ERIC: Don't worry, I'm in the picture.
+No one will be looking at you guys.
 
 51
 00:04:50,853 --> 00:04:52,252
-<i>BELLA: That's good.</i>
+BELLA: That's good.
 
 52
 00:04:52,955 --> 00:04:55,014
 Oh, good. Cullen's here.
 
-53
-00:04:55,791 --> 00:04:57,019
-(ERIC CHEERS WEAKLY)
+
 
 54
 00:04:58,027 --> 00:05:00,052
@@ -237,7 +209,7 @@ Well, talk to you later.
 
 56
 00:05:24,854 --> 00:05:25,843
-<i>EDWARD: Mmm.</i>
+EDWARD: Mmm.
 
 57
 00:05:27,556 --> 00:05:30,116
@@ -249,9 +221,7 @@ something to celebrate.
 - Yeah, but my aging's not.
 - Your aging?
 
-59
-00:05:33,329 --> 00:05:34,318
-(CHUCKLES)
+
 
 60
 00:05:35,231 --> 00:05:38,029
@@ -280,18 +250,14 @@ such an old man.
 00:05:49,478 --> 00:05:50,467
 Uh-huh.
 
-66
-00:05:56,485 --> 00:05:57,679
-(BOTH SIGHING)
+
 
 67
 00:06:01,257 --> 00:06:03,657
 - We have to go to class.
 - Okay.
 
-68
-00:06:05,294 --> 00:06:06,283
-(EDWARD MOANS SOFTLY)
+
 
 69
 00:06:08,431 --> 00:06:09,955
@@ -303,7 +269,7 @@ Someone wants you.
 
 71
 00:06:13,336 --> 00:06:15,236
-<i>- JACOB: Bella!</i>
+- JACOB: Bella!
 - Jacob!
 
 72
@@ -319,9 +285,7 @@ I'll leave you to talk.
 Hello, biceps! You know,
 anabolic steroids are really bad for you.
 
-75
-00:06:28,884 --> 00:06:29,908
-(JACOB LAUGHS)
+
 
 76
 00:06:29,985 --> 00:06:32,283
@@ -372,9 +336,7 @@ Um.
 00:06:56,512 --> 00:06:57,604
 It's decent.
 
-87
-00:06:57,680 --> 00:06:58,704
-(BOTH LAUGH)
+
 
 88
 00:06:58,781 --> 00:07:01,045
@@ -437,9 +399,7 @@ Because I have nothing to give back to you.
 Bella, you give me everything
 just by breathing.
 
-102
-00:07:43,726 --> 00:07:44,715
-(EXHALES)
+
 
 103
 00:07:45,628 --> 00:07:47,220
@@ -448,16 +408,14 @@ See? Thank you.
 104
 00:07:47,763 --> 00:07:49,890
 - That's all I want.
-<i>- ALICE: Bella!</i>
+- ALICE: Bella!
 
 105
 00:07:51,400 --> 00:07:52,765
 - Happy birthday!
 - Shh, shh!
 
-106
-00:07:53,469 --> 00:07:55,164
-(SCHOOL BELL RINGS)
+
 
 107
 00:07:56,405 --> 00:07:57,565
@@ -493,9 +451,7 @@ Okay, I'll see you at 7:00.
 00:08:19,195 --> 00:08:22,264
 Jasper, no fair with the mood control thing.
 
-115
-00:08:22,331 --> 00:08:23,320
-(ALICE LAUGHS)
+
 
 116
 00:08:23,732 --> 00:08:26,292
@@ -511,38 +467,38 @@ You can't trust vampires. Trust me.
 
 119
 00:08:35,544 --> 00:08:37,603
-<i>ROMEO: (ON VIDEO) O my love! My wife!</i>
+ROMEO: (ON VIDEO) O my love! My wife!
 
 120
 00:08:38,414 --> 00:08:40,609
-<i>Death, that hath sucked
-the honey of thy breath</i>
+Death, that hath sucked
+the honey of thy breath
 
 121
 00:08:40,683 --> 00:08:43,117
-<i>hath had no power yet upon thy beauty.</i>
+hath had no power yet upon thy beauty.
 
 122
 00:08:44,286 --> 00:08:46,151
-<i>Thou art not conquered.</i>
+Thou art not conquered.
 
 123
 00:08:47,623 --> 00:08:51,525
-<i>Beauty's ensign yet is crimson
-in thy lips and in thy cheeks.</i>
+Beauty's ensign yet is crimson
+in thy lips and in thy cheeks.
 
 124
 00:08:52,361 --> 00:08:55,228
-<i>And death's pale flag is not advanced there.</i>
+And death's pale flag is not advanced there.
 
 125
 00:08:55,297 --> 00:08:57,265
-<i>BELLA: I hate being celebrated.</i>
+BELLA: I hate being celebrated.
 
 126
 00:08:57,967 --> 00:09:00,902
-<i>EDWARD: There are worse tragedies.
-I mean, look at Romeo.</i>
+EDWARD: There are worse tragedies.
+I mean, look at Romeo.
 
 127
 00:09:00,970 --> 00:09:03,939
@@ -550,7 +506,7 @@ Killed his true love out of sheer stupidity.
 
 128
 00:09:05,841 --> 00:09:06,933
-<i>BELLA: Yeah.</i>
+BELLA: Yeah.
 
 129
 00:09:07,443 --> 00:09:09,604
@@ -558,16 +514,14 @@ Though I do envy him one thing.
 
 130
 00:09:11,480 --> 00:09:13,539
-<i>BELLA: Juliet is, like, perfect.</i>
+BELLA: Juliet is, like, perfect.
 
 131
 00:09:13,616 --> 00:09:16,881
 If you like
 that obviously beautiful sort of thing.
 
-132
-00:09:16,952 --> 00:09:17,941
-(EDWARD LAUGHS)
+
 
 133
 00:09:20,155 --> 00:09:23,090
@@ -601,13 +555,11 @@ Why would you say that?
 00:09:53,722 --> 00:09:56,213
 Because I had to consider it once.
 
-141
-00:09:57,326 --> 00:09:58,350
-(BELLA SCREAMING)
+
 
 142
 00:09:58,427 --> 00:10:00,452
-<i>I didn't know if I'd get to you in time.</i>
+I didn't know if I'd get to you in time.
 
 143
 00:10:01,096 --> 00:10:04,259
@@ -628,8 +580,8 @@ That I'd go to Italy and provoke the Volturi.
 
 147
 00:10:13,909 --> 00:10:17,367
-<i>MR. BERTY: Now, who'd like to repeat
-the last few lines of iambic pentameter</i>
+MR. BERTY: Now, who'd like to repeat
+the last few lines of iambic pentameter
 
 148
 00:10:17,446 --> 00:10:20,006
@@ -639,9 +591,7 @@ just to show they were paying attention?
 00:10:20,416 --> 00:10:21,815
 Mr. Cullen?
 
-150
-00:10:22,117 --> 00:10:23,914
-(INHALES DEEPLY)
+
 
 151
 00:10:24,853 --> 00:10:26,480
@@ -679,7 +629,7 @@ Eyes on the screen, people.
 
 159
 00:10:59,688 --> 00:11:02,054
-<i>ROMEO: Thus with a kiss I die.</i>
+ROMEO: Thus with a kiss I die.
 
 160
 00:11:05,394 --> 00:11:08,625
@@ -712,48 +662,46 @@ at least.
 
 166
 00:11:29,685 --> 00:11:31,175
-<i>And the law.</i>
+And the law.
 
 167
 00:11:32,187 --> 00:11:33,950
-<i>Above all, the law.</i>
+Above all, the law.
 
 168
 00:11:37,192 --> 00:11:38,955
-<i>BELLA: Vampires have laws?</i>
+BELLA: Vampires have laws?
 
 169
 00:11:40,496 --> 00:11:42,123
-<i>EDWARD: Not very many.</i>
+EDWARD: Not very many.
 
 170
 00:11:43,298 --> 00:11:46,131
-<i>And only one that's regularly enforced.</i>
+And only one that's regularly enforced.
 
 171
 00:11:48,637 --> 00:11:50,104
-<i>BELLA: What is it?</i>
+BELLA: What is it?
 
 172
 00:11:51,173 --> 00:11:54,267
-<i>EDWARD: That we keep the existence
-of our kind a secret.</i>
+EDWARD: That we keep the existence
+of our kind a secret.
 
 173
 00:11:54,710 --> 00:11:57,770
-<i>We don't make spectacles of ourselves,</i>
+We don't make spectacles of ourselves,
 
 174
 00:11:59,648 --> 00:12:02,173
-<i>and we don't kill conspicuously.</i>
+and we don't kill conspicuously.
 
 175
 00:12:06,088 --> 00:12:08,556
-<i>Unless, of course, you want to die.</i>
+Unless, of course, you want to die.
 
-176
-00:12:18,734 --> 00:12:19,723
-(SCREAMS)
+
 
 177
 00:12:23,038 --> 00:12:25,063
@@ -815,9 +763,7 @@ if that's what I am.
 00:13:12,454 --> 00:13:14,752
 But it's my job to protect you.
 
-191
-00:13:15,457 --> 00:13:16,446
-(BELLA SIGHS)
+
 
 192
 00:13:18,327 --> 00:13:21,421
@@ -827,26 +773,24 @@ From everyone except my sister.
 00:13:21,497 --> 00:13:24,728
 It's time! It's time. It's time. It's time!
 
-194
-00:13:26,201 --> 00:13:27,532
-<i>(THE VIOLET HOUR</i> PLAYING)
+
 
 195
 00:13:27,603 --> 00:13:30,231
-<i>Your lips are nettles</i>
+Your lips are nettles
 
 196
 00:13:30,305 --> 00:13:32,364
-<i>Your tongue is wine</i>
+Your tongue is wine
 
 197
 00:13:32,841 --> 00:13:35,435
-<i>You're left as liquid
-But your body's pine</i>
+You're left as liquid
+But your body's pine
 
 198
 00:13:35,511 --> 00:13:37,206
-<i>DR. CULLEN: Sorry about all this.</i>
+DR. CULLEN: Sorry about all this.
 
 199
 00:13:37,279 --> 00:13:40,112
@@ -866,9 +810,7 @@ I found it in your bag. You mind?
 00:13:49,358 --> 00:13:51,622
 Dating an older woman. Hot.
 
-203
-00:13:52,728 --> 00:13:53,752
-(SIGHS EXASPERATEDLY)
+
 
 204
 00:13:53,829 --> 00:13:56,059
@@ -904,9 +846,7 @@ Finally a decent sound system
 - for that piece of...
 - Hey! Don't hate the truck.
 
-212
-00:14:22,791 --> 00:14:23,815
-(ALICE LAUGHS)
+
 
 213
 00:14:23,892 --> 00:14:26,053
@@ -914,8 +854,8 @@ Open Esme and Carlisle's.
 
 214
 00:14:27,329 --> 00:14:29,854
-<i>DR. CULLEN: Just a little something
-to brighten your day.</i>
+DR. CULLEN: Just a little something
+to brighten your day.
 
 215
 00:14:29,932 --> 00:14:32,901
@@ -930,13 +870,9 @@ Ow.
 00:14:40,909 --> 00:14:42,240
 Paper cut.
 
-218
-00:14:54,189 --> 00:14:55,349
-(GLASS SHATTERING)
 
-219
-00:15:04,132 --> 00:15:05,121
-(JASPER GROWLS)
+
+
 
 220
 00:15:07,002 --> 00:15:10,062
@@ -946,21 +882,15 @@ Jaz, Jaz. It's okay. It's just a little
 00:15:12,474 --> 00:15:13,805
 blood.
 
-222
-00:15:14,243 --> 00:15:15,232
-(GASPS SOFTLY)
 
-223
-00:15:16,278 --> 00:15:18,576
-(JASPER SNARLS)
+
+
 
 224
 00:15:20,315 --> 00:15:22,215
-<i>DR. CULLEN: Get Jasper out of here.</i>
+DR. CULLEN: Get Jasper out of here.
 
-225
-00:15:22,651 --> 00:15:23,640
-(BELLA GASPS)
+
 
 226
 00:15:27,956 --> 00:15:30,254
@@ -987,14 +917,12 @@ but you right now.
 00:15:45,207 --> 00:15:46,401
 Edward.
 
-232
-00:15:53,548 --> 00:15:55,243
-<i>(CLASSICAL MUSIC PLAYING SOFTLY)</i>
+
 
 233
 00:15:57,853 --> 00:16:01,345
-<i>BELLA: I never wanted to have a party.
-DR. CULLEN: It's not your fault.</i>
+BELLA: I never wanted to have a party.
+DR. CULLEN: It's not your fault.
 
 234
 00:16:03,425 --> 00:16:07,555
@@ -1141,13 +1069,9 @@ So can I ask one thing?
 00:19:08,844 --> 00:19:10,072
 Kiss me?
 
-268
-00:19:21,289 --> 00:19:22,278
-(BELLA GASPS)
 
-269
-00:19:27,529 --> 00:19:29,087
-(BOTH GASPING)
+
+
 
 270
 00:19:41,510 --> 00:19:42,875
@@ -1157,37 +1081,35 @@ I love you.
 00:19:45,480 --> 00:19:46,879
 I love you.
 
-272
-00:20:11,573 --> 00:20:13,131
-<i>(ROSLYN</i> PLAYING)
+
 
 273
 00:20:15,777 --> 00:20:18,007
-<i>Up with your turret</i>
+Up with your turret
 
 274
 00:20:20,282 --> 00:20:24,241
-<i>Aren't we just terrified?</i>
+Aren't we just terrified?
 
 275
 00:20:35,931 --> 00:20:39,423
-<i>Shale, screen your worry</i>
+Shale, screen your worry
 
 276
 00:20:40,468 --> 00:20:44,495
-<i>From what you won't ever find</i>
+From what you won't ever find
 
 277
 00:20:53,882 --> 00:20:57,318
-<i>Don't let it fool you</i>
+Don't let it fool you
 
 278
 00:20:58,520 --> 00:21:02,183
-<i>Don't let it fool you</i>
+Don't let it fool you
 
 279
 00:21:02,824 --> 00:21:04,883
-<i>Down</i>
+Down
 
 280
 00:21:08,797 --> 00:21:09,991
@@ -1269,9 +1191,7 @@ Bella,
 00:23:11,386 --> 00:23:13,718
 I don't want you to come.
 
-299
-00:23:18,193 --> 00:23:19,785
-(SIGHS)
+
 
 300
 00:23:21,262 --> 00:23:23,025
@@ -1344,9 +1264,7 @@ Not good enough for you.
 00:24:32,367 --> 00:24:34,995
 I'm just sorry I let this go on for so long.
 
-317
-00:24:35,069 --> 00:24:36,127
-(SOBS)
+
 
 318
 00:24:36,871 --> 00:24:38,202
@@ -1360,9 +1278,7 @@ Don't...
 00:24:46,381 --> 00:24:47,678
 Goodbye.
 
-321
-00:24:49,317 --> 00:24:50,682
-(BELLA SOBBING)
+
 
 322
 00:25:03,331 --> 00:25:04,525
@@ -1384,21 +1300,13 @@ Edward!
 00:25:36,431 --> 00:25:37,625
 Edward.
 
-327
-00:26:36,891 --> 00:26:38,722
-(BELLA CRYING)
 
-328
-00:27:06,220 --> 00:27:08,450
-(SOFT GROWLING)
 
-329
-00:27:14,729 --> 00:27:16,128
-(GRASS RUSTLING)
 
-330
-00:27:31,279 --> 00:27:33,179
-<i>(CHATTERING O VER POLICE RADIO)</i>
+
+
+
+
 
 331
 00:27:33,247 --> 00:27:35,943
@@ -1406,7 +1314,7 @@ I'm gonna try the Cullens' place again.
 
 332
 00:27:36,651 --> 00:27:39,745
-<i>- BILLY: The Cullens left town, Charli</i>e.
+- BILLY: The Cullens left town, Charlie.
 - Good riddance.
 
 333
@@ -1424,7 +1332,7 @@ We'll find her, Charlie.
 
 336
 00:27:47,061 --> 00:27:48,187
-<i>BILLY: Hey.</i>
+BILLY: Hey.
 
 337
 00:27:51,466 --> 00:27:53,058
@@ -1434,88 +1342,80 @@ She's all right.
 00:27:53,935 --> 00:27:57,393
 I got her. Thank you, Sam.
 
-339
-00:28:23,464 --> 00:28:25,955
-<i>(POSSIBILITY</i> PLAYING)
+
 
 340
 00:28:38,880 --> 00:28:43,510
-<i>There's a possibility</i>
+There's a possibility
 
 341
 00:28:46,988 --> 00:28:52,187
-<i>There's a possibility</i>
+There's a possibility
 
 342
 00:28:55,063 --> 00:28:58,658
-<i>All that I had</i>
+All that I had
 
 343
 00:28:58,733 --> 00:29:02,328
-<i>Was all I'm gonna get</i>
+Was all I'm gonna get
 
 344
 00:29:07,308 --> 00:29:10,675
-<i>BELLA: Alice, you've disappeared,</i>
+BELLA: Alice, you've disappeared,
 
 345
 00:29:13,281 --> 00:29:15,249
-<i>like everything else.</i>
+like everything else.
 
 346
 00:29:16,517 --> 00:29:19,213
-<i>Now who else can I talk to? I'm lost.</i>
+Now who else can I talk to? I'm lost.
 
 347
 00:29:26,294 --> 00:29:27,921
-<i>When you left,</i>
+When you left,
 
 348
 00:29:29,831 --> 00:29:31,492
-<i>and he left,</i>
+and he left,
 
 349
 00:29:33,735 --> 00:29:36,101
-<i>you took everything with you.</i>
+you took everything with you.
 
 350
 00:29:38,206 --> 00:29:41,232
-<i>But the absence of him
-is everywhere I look.</i>
+But the absence of him
+is everywhere I look.
 
 351
 00:29:48,616 --> 00:29:52,143
-<i>It's like a huge hole has been punched
-through my chest.</i>
+It's like a huge hole has been punched
+through my chest.
 
-352
-00:29:52,220 --> 00:29:54,245
-(BELLA SCREAMING)
+
 
 353
 00:29:57,759 --> 00:29:58,851
 Bella.
 
-354
-00:29:59,827 --> 00:30:02,489
-(INAUDIBLE)
 
-355
-00:30:08,803 --> 00:30:11,203
-(BELLA SCREAMING)
+
+
 
 356
 00:30:15,042 --> 00:30:17,010
-<i>BELLA: But in a way I'm glad.</i>
+BELLA: But in a way I'm glad.
 
 357
 00:30:17,645 --> 00:30:20,637
-<i>The pain is my only reminder
-that he was real,</i>
+The pain is my only reminder
+that he was real,
 
 358
 00:30:20,848 --> 00:30:22,406
-<i>that you all were.</i>
+that you all were.
 
 359
 00:30:31,192 --> 00:30:33,319
@@ -1595,22 +1495,20 @@ Shopping.
 00:31:41,762 --> 00:31:45,459
 I like it. Go buy some stuff.
 
-377
-00:31:48,903 --> 00:31:51,463
-<i>(I BELONG TO YOU</i> PLAYING)
+
 
 378
 00:31:53,841 --> 00:31:55,832
-<i>BELLA: (ON PHONE) Hi, Jessica, it's Bella.</i>
+BELLA: (ON PHONE) Hi, Jessica, it's Bella.
 
 379
 00:31:57,078 --> 00:31:58,943
-<i>Yeah, Bella Swan.</i>
+Yeah, Bella Swan.
 
 380
 00:32:03,985 --> 00:32:05,418
-<i>JESSICA: I don't know why you want to
-sit through</i>
+JESSICA: I don't know why you want to
+sit through
 
 381
 00:32:05,486 --> 00:32:08,785
@@ -1668,7 +1566,7 @@ But after a while it's like,
 392
 00:32:37,084 --> 00:32:38,574
 - you're still bumming...
-<i>- CHET: You want a ride, girls?</i>
+- CHET: You want a ride, girls?
 
 393
 00:32:38,653 --> 00:32:40,644
@@ -1681,11 +1579,11 @@ he just wants to be friends.
 
 395
 00:32:41,856 --> 00:32:42,845
-<i>CHET: What's up? Look what we found.</i>
+CHET: What's up? Look what we found.
 
 396
 00:32:42,924 --> 00:32:44,118
-<i>JESSICA: It's hard, you know?</i>
+JESSICA: It's hard, you know?
 
 397
 00:32:44,191 --> 00:32:45,522
@@ -1693,24 +1591,20 @@ Like, and since when does "just friends"...
 
 398
 00:32:45,593 --> 00:32:47,117
-<i>BIKER 1: What's up guys?
-BIKER 2: Look what we found.</i>
+BIKER 1: What's up guys?
+BIKER 2: Look what we found.
 
 399
 00:32:47,194 --> 00:32:49,253
 Whoa, whoa, whoa. Hey, where you going?
 
-400
-00:32:49,764 --> 00:32:51,925
-(TIRES SCREECHING)
+
 
 401
 00:32:57,338 --> 00:32:58,327
 Keep walking.
 
-402
-00:32:58,406 --> 00:32:59,395
-(GASPING)
+
 
 403
 00:33:00,441 --> 00:33:02,102
@@ -1719,7 +1613,7 @@ This is dangerous.
 404
 00:33:11,519 --> 00:33:14,215
 - Dude, come on.
-<i>- CHET: Come here for a sec!</i>
+- CHET: Come here for a sec!
 
 405
 00:33:18,326 --> 00:33:20,419
@@ -1727,7 +1621,7 @@ I think I know those guys.
 
 406
 00:33:21,228 --> 00:33:23,321
-<i>CHET: We got beer! We got bikes!</i>
+CHET: We got beer! We got bikes!
 
 407
 00:33:23,998 --> 00:33:26,489
@@ -1739,7 +1633,7 @@ I'm just gonna see something.
 
 409
 00:33:30,838 --> 00:33:32,271
-<i>CHET: Hey, girlie!</i>
+CHET: Hey, girlie!
 
 410
 00:33:36,677 --> 00:33:39,373
@@ -1749,18 +1643,14 @@ All right, all right. We got a taker.
 00:33:40,081 --> 00:33:41,514
 Turn around.
 
-412
-00:33:41,716 --> 00:33:42,705
-(GASPS)
 
-413
-00:33:42,883 --> 00:33:44,180
-<i>(FRIENDS</i> PLAYING)
+
+
 
 414
 00:33:56,297 --> 00:33:58,561
-<i>BIKER 2: Shut up!
-BIKER 3: You shut up!</i>
+BIKER 2: Shut up!
+BIKER 3: You shut up!
 
 415
 00:34:04,905 --> 00:34:06,099
@@ -1780,18 +1670,14 @@ So, what do you say?
 00:34:16,317 --> 00:34:18,911
 You promised me, nothing reckless.
 
-419
-00:34:18,986 --> 00:34:20,214
-(BREATHES DEEPLY)
+
 
 420
 00:34:22,823 --> 00:34:26,054
 You promised it would be
 as if you never existed.
 
-421
-00:34:26,227 --> 00:34:27,251
-(CHET CLEARS THROAT)
+
 
 422
 00:34:31,565 --> 00:34:34,329
@@ -1802,17 +1688,13 @@ as if you never existed.
 00:34:34,402 --> 00:34:35,892
 You know what? Never mind.
 
-424
-00:34:35,970 --> 00:34:37,562
-(ENGINE ROARING)
+
 
 425
 00:34:53,054 --> 00:34:55,682
 Stop! Stop, stop, stop!
 
-426
-00:34:55,756 --> 00:34:56,745
-(BRAKES SCREECHING)
+
 
 427
 00:35:05,666 --> 00:35:08,601
@@ -1864,20 +1746,20 @@ Crazy.
 
 438
 00:35:43,070 --> 00:35:45,732
-<i>BELLA: Alice, I saw him.</i>
+BELLA: Alice, I saw him.
 
 439
 00:35:47,808 --> 00:35:50,641
-<i>Maybe I'm crazy now. I guess that's okay.</i>
+Maybe I'm crazy now. I guess that's okay.
 
 440
 00:35:52,780 --> 00:35:56,045
-<i>If a rush of danger
-is what it takes to see him,</i>
+If a rush of danger
+is what it takes to see him,
 
 441
 00:35:56,117 --> 00:35:58,347
-<i>then that's what I'll find.</i>
+then that's what I'll find.
 
 442
 00:36:02,456 --> 00:36:03,616
@@ -1885,15 +1767,11 @@ Bella!
 
 443
 00:36:04,692 --> 00:36:06,785
-Where the hell have you been, <i>loca?</i>
+Where the hell have you been, loca?
 
-444
-00:36:06,861 --> 00:36:08,328
-(BELLA LAUGHING)
 
-445
-00:36:10,831 --> 00:36:13,299
-(SIGHS) I brought you something.
+
+ I brought you something.
 
 446
 00:36:13,968 --> 00:36:16,562
@@ -1912,9 +1790,7 @@ Scrap metal. You shouldn't have.
 00:36:25,379 --> 00:36:27,609
 I saved it from the junkyard.
 
-450
-00:36:28,282 --> 00:36:29,271
-(BELLA CLEARS THROAT)
+
 
 451
 00:36:29,850 --> 00:36:33,718
@@ -1991,13 +1867,9 @@ What are you, like, 40 now?
 00:37:34,748 --> 00:37:37,046
 It feels like that sometimes.
 
-467
-00:37:42,089 --> 00:37:43,818
-<i>(ROMANTIC SONG PLAYING ON STEREO)</i>
 
-468
-00:37:45,859 --> 00:37:46,848
-(TURNS OFF STEREO)
+
+
 
 469
 00:37:47,261 --> 00:37:49,957
@@ -2043,9 +1915,7 @@ Are you... I'm older than you,
 so that makes me the influencer
 and you the influencee.
 
-479
-00:38:23,364 --> 00:38:24,956
-(LAUGHS) No, no, no.
+ No, no, no.
 
 480
 00:38:25,032 --> 00:38:28,763
@@ -2076,13 +1946,11 @@ Okay. So where do we stand?
 - I'm 35. And you might be, like, 32.
 - Come on.
 
-486
-00:38:43,917 --> 00:38:44,941
-(KNOCKING ON DOOR)
+
 
 487
 00:38:45,019 --> 00:38:48,614
-<i>- QUIL: Yo, Jake, you in there?</i>
+- QUIL: Yo, Jake, you in there?
 - It's okay. It's just my boys.
 
 488
@@ -2144,9 +2012,7 @@ Nope.
 So you guys have girlfriends?
 That's awesome.
 
-501
-00:39:19,486 --> 00:39:20,578
-(JACOB LAUGHING)
+
 
 502
 00:39:20,654 --> 00:39:24,181
@@ -2161,9 +2027,7 @@ Yeah, that's still a riot.
 00:39:26,093 --> 00:39:29,062
 You want funny, Black? I'll give you funny.
 
-505
-00:39:29,129 --> 00:39:30,289
-(JACOB AND QUIL LAUGHING)
+
 
 506
 00:39:30,364 --> 00:39:31,695
@@ -2171,74 +2035,72 @@ Jeez.
 
 507
 00:39:31,765 --> 00:39:33,096
-<i>JACOB: Hey, that hold's illegal!</i>
+JACOB: Hey, that hold's illegal!
 
 508
 00:39:33,167 --> 00:39:35,158
-<i>EMBRY: I got five bucks on Quil.</i>
+EMBRY: I got five bucks on Quil.
 
 509
 00:39:35,502 --> 00:39:36,867
 You're on.
 
-510
-00:39:37,838 --> 00:39:38,827
-<i>(SHOO TING THE MOON</i> PLAYING)
+
 
 511
 00:39:38,906 --> 00:39:43,400
-<i>All of the astronauts
-Champagne in plastic cups</i>
+All of the astronauts
+Champagne in plastic cups
 
 512
 00:39:43,477 --> 00:39:47,777
-<i>Waiting for the big hero to show</i>
+Waiting for the big hero to show
 
 513
 00:39:47,948 --> 00:39:52,908
-<i>Outside the door he stands
-His head in his hands</i>
+Outside the door he stands
+His head in his hands
 
 514
 00:39:53,087 --> 00:39:56,215
-<i>And his heart in his throat</i>
+And his heart in his throat
 
 515
 00:39:56,290 --> 00:39:59,316
-<i>What can he tell them now</i>
+What can he tell them now
 
 516
 00:39:59,660 --> 00:40:00,922
-<i>BELLA: Dear Alice,</i>
+BELLA: Dear Alice,
 
 517
 00:40:00,994 --> 00:40:03,360
-<i>I wish I had your real address.</i>
+I wish I had your real address.
 
 518
 00:40:03,797 --> 00:40:06,357
-<i>I wish I could tell you about Jake.</i>
+I wish I could tell you about Jake.
 
 519
 00:40:06,633 --> 00:40:08,828
-<i>He makes me feel better.</i>
+He makes me feel better.
 
 520
 00:40:10,003 --> 00:40:12,437
-<i>I mean, he makes me feel alive.</i>
+I mean, he makes me feel alive.
 
 521
 00:40:15,008 --> 00:40:17,135
-<i>The hole in my chest,</i>
+The hole in my chest,
 
 522
 00:40:17,778 --> 00:40:22,238
-<i>well, when I'm with Jake,
-it's like it's almost healed</i>
+well, when I'm with Jake,
+it's like it's almost healed
 
 523
 00:40:23,384 --> 00:40:24,715
-<i>for a while.</i>
+for a while.
 
 524
 00:40:24,985 --> 00:40:29,285
@@ -2254,9 +2116,7 @@ Oh.
 Well, I'm really not into
 the whole cougar thing. You know?
 
-527
-00:40:35,662 --> 00:40:36,686
-(CHUCKLES)
+
 
 528
 00:40:37,664 --> 00:40:39,655
@@ -2269,16 +2129,12 @@ how old was that Cullen guy, anyway?
 
 530
 00:40:45,706 --> 00:40:48,573
-<i>BELLA: But even Jake can't keep
-the dreams away.</i>
+BELLA: But even Jake can't keep
+the dreams away.
 
-531
-00:40:49,977 --> 00:40:51,638
-(BELLA WHIMPERING)
 
-532
-00:40:54,248 --> 00:40:56,478
-(SCREAMING)
+
+
 
 533
 00:40:57,284 --> 00:40:58,945
@@ -2288,18 +2144,14 @@ Hey, hey, hey!
 00:40:59,653 --> 00:41:00,847
 Wake up, Bella.
 
-535
-00:41:00,921 --> 00:41:03,583
-(SHUSHING) You're okay. You're okay.
+ You're okay. You're okay.
 
 536
 00:41:14,668 --> 00:41:19,105
 I thought this thing was starting to work,
 but I guess not.
 
-537
-00:41:22,709 --> 00:41:23,698
-(CHARLIE SIGHS)
+
 
 538
 00:41:25,479 --> 00:41:27,538
@@ -2387,9 +2239,7 @@ I would say that that's really too bad,
 but that we're just gonna
 have to find something else to do.
 
-558
-00:42:57,604 --> 00:42:58,593
-(LAUGHS)
+
 
 559
 00:42:58,906 --> 00:43:00,635
@@ -2399,13 +2249,9 @@ Is that Sam Uley?
 00:43:01,608 --> 00:43:04,008
 Yeah. Him and his cult.
 
-561
-00:43:04,444 --> 00:43:05,706
-(SHOUTING INDISTINCTLY)
 
-562
-00:43:05,779 --> 00:43:06,803
-(WHOOPS)
+
+
 
 563
 00:43:06,880 --> 00:43:08,347
@@ -2415,9 +2261,7 @@ Oh, my God.
 00:43:11,418 --> 00:43:13,113
 Did you see that?
 
-565
-00:43:16,590 --> 00:43:18,114
-(JACOB LAUGHING)
+
 
 566
 00:43:18,892 --> 00:43:22,726
@@ -2461,9 +2305,7 @@ hall monitors on steroids.
 - Now look at him.
 - That's Embry?
 
-575
-00:43:51,725 --> 00:43:53,192
-(CONTINUE WHOOPING)
+
 
 576
 00:43:53,360 --> 00:43:55,658
@@ -2533,9 +2375,7 @@ Good.
 00:44:57,090 --> 00:44:58,182
 Gas?
 
-592
-00:44:59,359 --> 00:45:00,621
-(ENGINE ROARS)
+
 
 593
 00:45:00,694 --> 00:45:01,956
@@ -2547,15 +2387,13 @@ Now, slowly release the clutch.
 
 595
 00:45:08,168 --> 00:45:09,362
-<i>EDWARD: Bella.</i>
+EDWARD: Bella.
 
 596
 00:45:12,939 --> 00:45:13,928
-<i>Stop.</i>
+Stop.
 
-597
-00:45:14,007 --> 00:45:14,996
-(BELLA GASPS)
+
 
 598
 00:45:15,809 --> 00:45:16,798
@@ -2573,9 +2411,7 @@ I'm gonna go again.
 00:45:24,351 --> 00:45:25,511
 Okay.
 
-602
-00:45:32,159 --> 00:45:33,148
-(GASPS)
+
 
 603
 00:45:39,099 --> 00:45:40,088
@@ -2589,9 +2425,7 @@ Whoa!
 00:45:44,271 --> 00:45:45,795
 Hit the brake!
 
-606
-00:45:46,873 --> 00:45:47,862
-(GRUNTS)
+
 
 607
 00:46:00,387 --> 00:46:01,411
@@ -2655,9 +2489,7 @@ How hard did you hit your head?
 00:47:00,080 --> 00:47:01,104
 I don't know.
 
-622
-00:47:01,181 --> 00:47:02,170
-(JACOB CHUCKLES SOFTLY)
+
 
 623
 00:47:03,483 --> 00:47:04,882
@@ -2665,7 +2497,7 @@ Let's go.
 
 624
 00:47:08,321 --> 00:47:09,788
-<i>ANGELA: I did see something in the woods.</i>
+ANGELA: I did see something in the woods.
 
 625
 00:47:10,323 --> 00:47:11,722
@@ -2676,14 +2508,12 @@ Totally. Baby, I believe you.
 No, he doesn't.
 He's just trying to get lucky.
 
-627
-00:47:14,161 --> 00:47:15,150
-(ERIC LAUGHS)
+
 
 628
 00:47:15,495 --> 00:47:19,522
-<i>ANGELA: No, okay.
-It was jet black and huge.</i>
+ANGELA: No, okay.
+It was jet black and huge.
 
 629
 00:47:19,599 --> 00:47:22,432
@@ -2699,13 +2529,11 @@ A bear, maybe?
 Or an alien.
 You're lucky you didn't get probed.
 
-632
-00:47:26,306 --> 00:47:27,568
-(ERIC AND MIKE SNICKERING)
+
 
 633
 00:47:27,641 --> 00:47:29,632
-<i>ANGELA: Well, I saw it.</i>
+ANGELA: Well, I saw it.
 
 634
 00:47:30,377 --> 00:47:32,402
@@ -2729,9 +2557,7 @@ But they can't find the bear.
 00:47:41,154 --> 00:47:42,143
 Hmm.
 
-639
-00:47:42,856 --> 00:47:44,187
-(LAUGHS AWKWARDLY)
+
 
 640
 00:47:44,257 --> 00:47:47,124
@@ -2739,11 +2565,9 @@ Last time you clowns doubt my girlfriend.
 
 641
 00:47:47,861 --> 00:47:48,850
-<i>MIKE: Um...</i>
+MIKE: Um...
 
-642
-00:47:48,929 --> 00:47:49,918
-(MIKE CLEARS THROAT)
+
 
 643
 00:47:51,231 --> 00:47:52,698
@@ -2753,9 +2577,7 @@ So? I mean,
 00:47:53,533 --> 00:47:55,160
 Bella's back?
 
-645
-00:47:56,469 --> 00:47:57,458
-(LAUGHS)
+
 
 646
 00:47:58,972 --> 00:48:00,564
@@ -2793,7 +2615,7 @@ Let me see, we could check out
 
 654
 00:48:32,806 --> 00:48:35,036
-<i>Love Spelled Backwards Is Love.</i>
+Love Spelled Backwards Is Love.
 
 655
 00:48:35,108 --> 00:48:38,236
@@ -2807,7 +2629,7 @@ but it's a romantic comedy.
 
 657
 00:48:45,218 --> 00:48:48,278
-How about <i>Face Punch?</i>
+How about Face Punch?
 Have you heard of that?
 
 658
@@ -2833,11 +2655,11 @@ Okay.
 663
 00:48:59,833 --> 00:49:04,167
 We should get a bunch of people to go.
-Do you guys want to go see <i>Face Punch?</i>
+Do you guys want to go see Face Punch?
 
 664
 00:49:04,237 --> 00:49:05,465
-ERIC: <i>Face Punch,</i> yeah!
+ERIC: Face Punch, yeah!
 
 665
 00:49:05,538 --> 00:49:07,028
@@ -2853,14 +2675,12 @@ Remember, the trailer's like...
 - "Punch faces."
 - I remember.
 
-668
-00:49:11,044 --> 00:49:13,740
-(SARCASTICALLY) Yeah!
+ Yeah!
 Movie night with Bella.
 
 669
 00:49:16,983 --> 00:49:18,848
-JACOB: So <i>Face Punch,</i> huh?
+JACOB: So Face Punch, huh?
 
 670
 00:49:19,486 --> 00:49:21,511
@@ -2870,9 +2690,7 @@ You like action movies?
 00:49:22,422 --> 00:49:23,912
 Not really.
 
-672
-00:49:25,191 --> 00:49:26,180
-(JACOB SCOFFING)
+
 
 673
 00:49:26,893 --> 00:49:29,657
@@ -2915,65 +2733,51 @@ so Eric's taking care of her.
 - Great.
 - Yeah.
 
-682
-00:49:55,055 --> 00:49:56,079
-<i>(GUN COCKING ON SCREEN)</i>
+
 
 683
 00:49:56,156 --> 00:49:57,487
-<i>MAN 1 ON SCREEN: Put your gun down.</i>
+MAN 1 ON SCREEN: Put your gun down.
 
 684
 00:49:57,557 --> 00:50:00,253
-<i>MAN 2 ON SCREEN: Put your gun down
-or I'm gonna blow your frickin' head off.</i>
+MAN 2 ON SCREEN: Put your gun down
+or I'm gonna blow your frickin' head off.
 
 685
 00:50:00,327 --> 00:50:02,795
-<i>MAN 3 ON SCREEN: Both of you put both
-of your guns down</i>
+MAN 3 ON SCREEN: Both of you put both
+of your guns down
 
 686
 00:50:02,862 --> 00:50:05,592
-<i>or I'm gonna blow both
-of your frickin' heads off.</i>
+or I'm gonna blow both
+of your frickin' heads off.
 
 687
 00:50:07,000 --> 00:50:08,467
-<i>MAN 1 ON SCREEN: All right, forget it,
-let's do this!</i>
+MAN 1 ON SCREEN: All right, forget it,
+let's do this!
 
-688
-00:50:08,535 --> 00:50:09,559
-<i>(GUNS FIRING)</i>
 
-689
-00:50:09,636 --> 00:50:10,625
-<i>(MAN SCREAMS)</i>
 
-690
-00:50:11,438 --> 00:50:13,030
-<i>(GUNS FIRING)</i>
 
-691
-00:50:16,576 --> 00:50:17,565
-<i>(WOMAN SCREAMS)</i>
+
+
+
+
 
 692
 00:50:26,920 --> 00:50:29,411
 Okay, I think I'm gonna throw up.
 
-693
-00:50:29,489 --> 00:50:30,478
-<i>(SCREAMING CONTINUES)</i>
+
 
 694
 00:50:35,628 --> 00:50:36,925
 He's...
 
-695
-00:50:37,297 --> 00:50:39,094
-(SCOFFS) What a marshmallow!
+ What a marshmallow!
 
 696
 00:50:40,233 --> 00:50:43,691
@@ -2989,9 +2793,7 @@ that makes weaker men vomit.
 00:50:47,307 --> 00:50:49,138
 Yeah. I'll keep my eye open for that.
 
-699
-00:50:49,209 --> 00:50:50,233
-(JACOB CHUCKLES)
+
 
 700
 00:50:51,411 --> 00:50:55,780
@@ -3020,13 +2822,9 @@ You like me, right?
 00:51:20,874 --> 00:51:23,536
 And you think I'm sort of beautiful?
 
-706
-00:51:24,611 --> 00:51:28,240
-(SOFTLY) Jacob, please, don't do this.
+ Jacob, please, don't do this.
 
-707
-00:51:31,084 --> 00:51:32,073
-(BELLA SIGHS)
+
 
 708
 00:51:35,021 --> 00:51:36,113
@@ -3040,9 +2838,7 @@ Because you're about to ruin everything.
 00:51:44,197 --> 00:51:46,825
 And I need you.
 
-711
-00:51:50,403 --> 00:51:51,392
-(SIGHS)
+
 
 712
 00:51:53,740 --> 00:51:56,208
@@ -3079,9 +2875,7 @@ So I should be fair to you.
 00:52:30,610 --> 00:52:32,840
 It's because of him, right?
 
-720
-00:52:36,249 --> 00:52:37,238
-(JACOB SIGHS DEEPLY)
+
 
 721
 00:52:43,156 --> 00:52:44,384
@@ -3109,15 +2903,11 @@ You can count on me.
 
 727
 00:53:14,087 --> 00:53:15,076
-<i>MIKE: Well,</i>
+MIKE: Well,
 
-728
-00:53:15,155 --> 00:53:16,144
-(SNIFFLES)
 
-729
-00:53:16,222 --> 00:53:17,211
-(SIGHS)
+
+
 
 730
 00:53:20,493 --> 00:53:22,222
@@ -3127,9 +2917,7 @@ I need to go home.
 00:53:29,369 --> 00:53:32,236
 I was feeling sick before the movie. Okay?
 
-732
-00:53:32,672 --> 00:53:33,661
-(JACOB SCOFFS)
+
 
 733
 00:53:35,475 --> 00:53:36,806
@@ -3166,9 +2954,7 @@ Are you okay?
 00:53:58,398 --> 00:54:00,696
 I don't know what's happening.
 
-741
-00:54:01,568 --> 00:54:02,592
-(BREATHING HEAVILY)
+
 
 742
 00:54:02,669 --> 00:54:04,159
@@ -3180,31 +2966,31 @@ That dude is weird.
 
 744
 00:54:14,480 --> 00:54:17,176
-<i>BELLA: (ON PHONE) Jake,
-your dad says you have mono.</i>
+BELLA: (ON PHONE) Jake,
+your dad says you have mono.
 
 745
 00:54:17,750 --> 00:54:20,913
-<i>He won't let me visit,
-but would you call me?</i>
+He won't let me visit,
+but would you call me?
 
 746
 00:54:26,459 --> 00:54:29,087
-<i>Hey, it's me again. I just...</i>
+Hey, it's me again. I just...
 
 747
 00:54:30,129 --> 00:54:33,064
-<i>I'm sorry about what I said
-at the movie theater.</i>
+I'm sorry about what I said
+at the movie theater.
 
 748
 00:54:34,133 --> 00:54:37,364
-<i>I just wanted to hear your voice,
-so no pressure.</i>
+I just wanted to hear your voice,
+so no pressure.
 
 749
 00:54:40,473 --> 00:54:41,906
-<i>Jacob, please...</i>
+Jacob, please...
 
 750
 00:54:43,843 --> 00:54:45,242
@@ -3214,9 +3000,7 @@ Call me.
 00:54:45,311 --> 00:54:47,939
 Okay. We should be back around 3:00.
 
-752
-00:54:52,919 --> 00:54:53,908
-(SIGHS)
+
 
 753
 00:54:54,988 --> 00:54:56,148
@@ -3318,9 +3102,7 @@ But if you want somebody to blame,
 how about those filthy bloodsuckers
 you love, the Cullens?
 
-777
-00:56:44,731 --> 00:56:46,756
-(THUNDER RUMBLING)
+
 
 778
 00:56:51,371 --> 00:56:52,497
@@ -3342,7 +3124,7 @@ But you can't lie to me.
 782
 00:57:03,583 --> 00:57:05,744
 - Not anymore, Bella.
-<i>- SAM: Jacob!</i>
+- SAM: Jacob!
 
 783
 00:57:06,419 --> 00:57:07,750
@@ -3356,9 +3138,7 @@ Look, Bella,
 00:57:16,529 --> 00:57:18,861
 we can't be friends anymore.
 
-786
-00:57:19,732 --> 00:57:23,498
-(CRYING) Look, Jake,
+ Look, Jake,
 I know that I've been hurting you.
 
 787
@@ -3445,36 +3225,34 @@ or you're gonna get hurt.
 
 807
 00:58:48,721 --> 00:58:50,052
-<i>BELLA: Alice,</i>
+BELLA: Alice,
 
 808
 00:58:51,090 --> 00:58:52,580
-<i>things are...</i>
+things are...
 
 809
 00:58:54,227 --> 00:58:56,127
-<i>Things are bad again.</i>
+Things are bad again.
 
 810
 00:58:57,330 --> 00:59:00,424
-<i>Without Jake, I just... I can't stand it.</i>
+Without Jake, I just... I can't stand it.
 
 811
 00:59:03,803 --> 00:59:06,067
-<i>I don't see Edward anymore.</i>
+I don't see Edward anymore.
 
 812
 00:59:07,540 --> 00:59:10,441
-<i>Will it really feel like he never existed?</i>
+Will it really feel like he never existed?
 
 813
 00:59:17,950 --> 00:59:21,113
-<i>I will find the place
-where I can see him again.</i>
+I will find the place
+where I can see him again.
 
-814
-01:00:06,866 --> 01:00:08,731
-(SOBBING)
+
 
 815
 01:00:16,409 --> 01:00:17,603
@@ -3517,9 +3295,7 @@ Do the Cullens visit often?
 01:00:50,810 --> 01:00:51,799
 Lie.
 
-825
-01:00:51,877 --> 01:00:52,866
-(GASPS)
+
 
 826
 01:00:57,416 --> 01:00:58,678
@@ -3601,9 +3377,7 @@ After all, how much could you mean to him
 01:01:52,772 --> 01:01:55,263
 if he left you here unprotected?
 
-845
-01:01:56,542 --> 01:01:57,566
-(LAURENT SIGHS)
+
 
 846
 01:01:57,643 --> 01:02:00,635
@@ -3623,17 +3397,13 @@ You are so mouth-watering.
 - Please, don't. I mean, you helped us.
 - No, no, no, no.
 
-850
-01:02:08,654 --> 01:02:09,678
-(SHUSHING)
+
 
 851
 01:02:09,755 --> 01:02:13,020
 Don't be afraid. I'm doing you a kindness.
 
-852
-01:02:13,325 --> 01:02:15,987
-(SOFTLY) Victoria plans on killing you
+ Victoria plans on killing you
 slowly,
 
 853
@@ -3656,37 +3426,23 @@ You will feel nothing.
 01:02:32,278 --> 01:02:33,905
 Edward, I love you.
 
-858
-01:02:33,979 --> 01:02:34,968
-(TWIGS SNAPPING)
+
 
 859
 01:02:36,282 --> 01:02:37,977
 I don't believe it.
 
-860
-01:02:38,050 --> 01:02:39,813
-(LOW GROWLING)
 
-861
-01:03:02,541 --> 01:03:04,008
-(ROARS)
 
-862
-01:03:12,918 --> 01:03:13,907
-(GASPS)
 
-863
-01:03:34,707 --> 01:03:36,698
-(WEREWOLVES RUNNING)
 
-864
-01:03:37,710 --> 01:03:38,836
-(YELPING)
 
-865
-01:03:41,680 --> 01:03:42,669
-(GASPS)
+
+
+
+
+
+
 
 866
 01:03:45,017 --> 01:03:47,577
@@ -3717,9 +3473,7 @@ Are you sure about that, Bella?
 Yeah! I just saw them.
 They were after something.
 
-872
-01:04:01,600 --> 01:04:02,624
-(HARRY CLEARS THROAT)
+
 
 873
 01:04:02,701 --> 01:04:03,929
@@ -3744,16 +3498,16 @@ Sure, yeah, I'll just...
 
 878
 01:04:20,653 --> 01:04:22,484
-<i>BELLA: By now, those wolves will be dead,</i>
+BELLA: By now, those wolves will be dead,
 
 879
 01:04:24,089 --> 01:04:27,149
-<i>and Laurent would have told her
-I'm unprotected.</i>
+and Laurent would have told her
+I'm unprotected.
 
 880
 01:04:27,226 --> 01:04:28,488
-<i>Victoria.</i>
+Victoria.
 
 881
 01:04:30,229 --> 01:04:31,719
@@ -3765,23 +3519,17 @@ Yeah, you should. You should go.
 
 883
 01:04:34,867 --> 01:04:37,233
-<i>CHARLIE: Can you just stay in the house?</i>
+CHARLIE: Can you just stay in the house?
 
-884
-01:04:39,805 --> 01:04:40,737
-(THUNDER RUMBLING)
 
-885
-01:04:43,275 --> 01:04:44,401
-(CLATTERING)
 
-886
-01:04:53,118 --> 01:04:54,107
-(CLATTERING CONTINUES)
+
+
+
 
 887
 01:05:02,261 --> 01:05:03,523
-<i>JACOB: (WHISPERS) Bella!</i>
+JACOB: (WHISPERS) Bella!
 
 888
 01:05:06,198 --> 01:05:07,631
@@ -3792,9 +3540,7 @@ You scared me.
 - What the hell are you doing?
 - Back up. I'm coming up.
 
-890
-01:05:19,111 --> 01:05:20,100
-(GASPS)
+
 
 891
 01:05:23,415 --> 01:05:24,609
@@ -3813,9 +3559,7 @@ Look, I'm sorry.
 01:05:37,930 --> 01:05:41,093
 But I literally can't.
 
-895
-01:05:42,801 --> 01:05:43,790
-(SIGHS)
+
 
 896
 01:05:49,842 --> 01:05:53,209
@@ -3924,9 +3668,7 @@ They'll start wondering where I am.
 01:07:57,369 --> 01:07:58,836
 Come here.
 
-921
-01:08:03,108 --> 01:08:04,405
-(SOFTLY) Please,
+ Please,
 
 922
 01:08:05,444 --> 01:08:07,241
@@ -3948,17 +3690,13 @@ I'll try. But, Jake...
 01:08:19,591 --> 01:08:22,321
 Jake, what are you doing? Wait, Jake.
 
-927
-01:08:24,530 --> 01:08:25,519
-(GASPS)
+
 
 928
 01:08:29,468 --> 01:08:30,628
 Jake.
 
-929
-01:08:35,441 --> 01:08:36,430
-(GASPS)
+
 
 930
 01:08:47,519 --> 01:08:49,282
@@ -3970,21 +3708,19 @@ You should be.
 
 932
 01:08:56,562 --> 01:08:58,496
-<i>JACOB: Really, it's just like an old story.</i>
+JACOB: Really, it's just like an old story.
 
 933
 01:08:58,564 --> 01:09:00,429
-<i>I'm not really supposed
-to say anything about it.</i>
+I'm not really supposed
+to say anything about it.
 
 934
 01:09:00,499 --> 01:09:04,299
-<i>Did you know Quileutes
-are supposedly descended from wolves?</i>
+Did you know Quileutes
+are supposedly descended from wolves?
 
-935
-01:09:10,109 --> 01:09:11,098
-(WEREWOLF SNARLS)
+
 
 936
 01:09:19,151 --> 01:09:20,379
@@ -4036,22 +3772,18 @@ What'd he tell you?
 He tells me nothing
 because he's scared of you.
 
-947
-01:09:59,258 --> 01:10:01,123
-(SNICKERING)
+
 
 948
 01:10:04,329 --> 01:10:06,263
 - Too late now.
 - SAM: Bella, get back!
 
-949
-01:10:06,331 --> 01:10:07,355
-(PAUL GROWLING SOFTLY)
+
 
 950
 01:10:07,432 --> 01:10:10,162
-<i>SAM: Paul, calm down, now!</i>
+SAM: Paul, calm down, now!
 
 951
 01:10:18,810 --> 01:10:20,038
@@ -4065,21 +3797,15 @@ Run!
 01:10:25,617 --> 01:10:26,982
 Jake, run!
 
-954
-01:10:31,323 --> 01:10:33,416
-(GROWLING)
 
-955
-01:10:42,467 --> 01:10:43,456
-(WHIMPERS)
 
-956
-01:10:48,340 --> 01:10:50,808
-(BOTH SNARLING)
+
+
+
 
 957
 01:10:53,178 --> 01:10:54,338
-<i>SAM: Paul!</i>
+SAM: Paul!
 
 958
 01:11:04,990 --> 01:11:07,652
@@ -4087,25 +3813,23 @@ Hey! Take Bella back to Emily's place.
 
 959
 01:11:09,361 --> 01:11:11,761
-<i>EMBRY: Guess the wolf's out of the bag.</i>
+EMBRY: Guess the wolf's out of the bag.
 
 960
 01:11:16,768 --> 01:11:20,636
-<i>BELLA: Alice, is it possible that everything
-is true?</i>
+BELLA: Alice, is it possible that everything
+is true?
 
 961
 01:11:21,340 --> 01:11:23,740
-<i>The fairy tales and horror stories?</i>
+The fairy tales and horror stories?
 
 962
 01:11:23,809 --> 01:11:27,370
-<i>Is it possible that there isn't anything
-sane or normal at all?</i>
+Is it possible that there isn't anything
+sane or normal at all?
 
-963
-01:11:27,512 --> 01:11:28,501
-(BOTH WHOOP)
+
 
 964
 01:11:29,548 --> 01:11:31,448
@@ -4134,22 +3858,20 @@ Come on in, Bella. We won't bite.
 01:11:42,728 --> 01:11:44,491
 Speak for yourself.
 
-970
-01:11:44,563 --> 01:11:45,587
-<i>(DONE ALL WRONG</i> PLAYING)
+
 
 971
 01:11:45,664 --> 01:11:47,655
-<i>I done me wrong</i>
+I done me wrong
 
 972
 01:11:47,733 --> 01:11:49,928
-<i>And done all wrong</i>
+And done all wrong
 
 973
 01:11:51,136 --> 01:11:54,128
-<i>All the wrong I've done
-I'm sure I'll live quite long</i>
+All the wrong I've done
+I'm sure I'll live quite long
 
 974
 01:11:54,206 --> 01:11:58,802
@@ -4164,9 +3886,7 @@ Why would I stare?
 01:12:03,215 --> 01:12:06,343
 Are you guys hungry? Like I have to ask.
 
-977
-01:12:06,418 --> 01:12:07,851
-(EMILY LAUGHING)
+
 
 978
 01:12:13,759 --> 01:12:15,351
@@ -4174,7 +3894,7 @@ Who's this?
 
 979
 01:12:15,427 --> 01:12:17,258
-<i>JARED: Bella Swan. Who else?</i>
+JARED: Bella Swan. Who else?
 
 980
 01:12:18,930 --> 01:12:19,954
@@ -4241,9 +3961,7 @@ This chick runs with vampires.
 01:13:04,776 --> 01:13:07,370
 You can't really run with vampires.
 
-995
-01:13:07,646 --> 01:13:08,635
-(EMILY GIGGLES)
+
 
 996
 01:13:09,348 --> 01:13:11,213
@@ -4263,15 +3981,13 @@ You're not the first monsters I've met.
 
 1000
 01:13:21,493 --> 01:13:24,326
-<i>SAM: Jake's right. You're good with weird.</i>
+SAM: Jake's right. You're good with weird.
 
 1001
 01:13:26,098 --> 01:13:27,258
 Hey.
 
-1002
-01:13:31,136 --> 01:13:32,228
-(EMILY GIGGLING)
+
 
 1003
 01:13:46,651 --> 01:13:48,016
@@ -4387,9 +4103,7 @@ They'll kill you.
 Really? We took out that leech
 with the dreads easy enough.
 
-1030
-01:15:32,157 --> 01:15:34,284
-(WEREWOLVES GROWLING)
+
 
 1031
 01:15:36,294 --> 01:15:37,420
@@ -4460,35 +4174,35 @@ Got a vampire to kill.
 
 1047
 01:16:43,929 --> 01:16:46,454
-<i>BELLA: Alice, I'm all right.</i>
+BELLA: Alice, I'm all right.
 
 1048
 01:16:48,133 --> 01:16:49,896
-<i>Until I'm alone.</i>
+Until I'm alone.
 
 1049
 01:16:51,202 --> 01:16:53,636
-<i>And lately, that's all the time.</i>
+And lately, that's all the time.
 
 1050
 01:16:54,072 --> 01:16:56,768
-<i>Jacob's gone. He's hunting Victoria.</i>
+Jacob's gone. He's hunting Victoria.
 
 1051
 01:16:56,841 --> 01:16:59,105
-<i>And Charlie's hunting Jacob.</i>
+And Charlie's hunting Jacob.
 
 1052
 01:16:59,177 --> 01:17:00,872
-<i>And you're gone.</i>
+And you're gone.
 
 1053
 01:17:01,846 --> 01:17:03,609
-<i>And so is Edward.</i>
+And so is Edward.
 
 1054
 01:17:07,619 --> 01:17:09,985
-<i>And there's just nothing now.</i>
+And there's just nothing now.
 
 1055
 01:17:13,024 --> 01:17:15,049
@@ -4500,119 +4214,115 @@ Nope. Nothing.
 
 1057
 01:17:25,570 --> 01:17:27,504
-<i>But I realize where I have to go,</i>
+But I realize where I have to go,
 
 1058
 01:17:27,572 --> 01:17:30,097
-<i>what I have to do to see him again.</i>
+what I have to do to see him again.
 
-1059
-01:17:30,475 --> 01:17:32,909
-<i>(HEARING DAMAGE</i> PLAYING)
+
 
 1060
 01:17:41,920 --> 01:17:44,445
-<i>A tear in my brain</i>
+A tear in my brain
 
 1061
 01:17:49,928 --> 01:17:53,523
-<i>Allows the voices in</i>
+Allows the voices in
 
 1062
 01:17:59,904 --> 01:18:03,237
-<i>They wanna push you off the path</i>
+They wanna push you off the path
 
 1063
 01:18:07,979 --> 01:18:11,471
-<i>With their frequency wires</i>
+With their frequency wires
 
 1064
 01:18:18,890 --> 01:18:22,587
-<i>And you can do no wrong</i>
+And you can do no wrong
 
 1065
 01:18:28,900 --> 01:18:30,697
-<i>In my eyes</i>
+In my eyes
 
 1066
 01:18:32,971 --> 01:18:35,462
-<i>In my eyes</i>
+In my eyes
 
 1067
 01:18:37,676 --> 01:18:41,168
-<i>You can do no wrong</i>
+You can do no wrong
 
 1068
 01:18:47,419 --> 01:18:49,944
-<i>In my eyes</i>
+In my eyes
 
 1069
 01:18:51,756 --> 01:18:54,122
-<i>In my eyes</i>
+In my eyes
 
 1070
 01:18:56,094 --> 01:18:58,153
-<i>A drunken salesman</i>
+A drunken salesman
 
 1071
 01:18:58,229 --> 01:19:00,163
-<i>Your hearing damage</i>
+Your hearing damage
 
 1072
 01:19:00,231 --> 01:19:02,131
-<i>Your mind is restless</i>
+Your mind is restless
 
 1073
 01:19:02,200 --> 01:19:04,293
-<i>They say you're getting better</i>
+They say you're getting better
 
 1074
 01:19:04,369 --> 01:19:07,600
-<i>But you don't feel any better</i>
+But you don't feel any better
 
 1075
 01:19:14,713 --> 01:19:16,772
-<i>Your speakers are blowing</i>
+Your speakers are blowing
 
 1076
 01:19:16,848 --> 01:19:18,941
-<i>Your ears are wrecking</i>
+Your ears are wrecking
 
 1077
 01:19:19,017 --> 01:19:20,917
-<i>Your hearing damage</i>
+Your hearing damage
 
 1078
 01:19:20,985 --> 01:19:23,180
-<i>You wish you felt better</i>
+You wish you felt better
 
 1079
 01:19:23,254 --> 01:19:25,518
-<i>You wish you felt better</i>
+You wish you felt better
 
 1080
 01:19:33,598 --> 01:19:37,329
-<i>You can do no wrong</i>
+You can do no wrong
 
 1081
 01:19:43,508 --> 01:19:46,375
-<i>In my eyes</i>
+In my eyes
 
 1082
 01:19:47,645 --> 01:19:49,203
-<i>In my eyes</i>
+In my eyes
 
 1083
 01:19:51,850 --> 01:19:53,545
-<i>In my eyes</i>
+In my eyes
 
-1084
-01:19:59,824 --> 01:20:01,587
-(GROWLING)
+
 
 1085
 01:20:28,052 --> 01:20:29,610
-<i>EDWARD: Don't do this.</i>
+EDWARD: Don't do this.
 
 1086
 01:20:34,559 --> 01:20:36,686
@@ -4624,11 +4334,11 @@ Watch me.
 
 1088
 01:20:43,301 --> 01:20:44,598
-<i>EDWARD: Please.</i>
+EDWARD: Please.
 
 1089
 01:20:45,870 --> 01:20:46,894
-<i>For me.</i>
+For me.
 
 1090
 01:20:46,971 --> 01:20:49,633
@@ -4636,39 +4346,33 @@ You won't stay with me any other way.
 
 1091
 01:20:52,343 --> 01:20:54,243
-<i>Bella, please.</i>
+Bella, please.
 
-1092
-01:21:08,026 --> 01:21:10,290
-(GASPING)
 
-1093
-01:21:55,240 --> 01:21:56,673
-<i>(SLOW LIFE</i> PLAYING)
+
+
 
 1094
 01:21:56,741 --> 01:22:03,169
-<i>This constant noise all the time</i>
+This constant noise all the time
 
 1095
 01:22:13,625 --> 01:22:19,530
-<i>Even though you're the only one I see</i>
+Even though you're the only one I see
 
 1096
 01:22:22,467 --> 01:22:23,729
-<i>JACOB: Breathe!</i>
+JACOB: Breathe!
 
 1097
 01:22:25,470 --> 01:22:26,528
-<i>Breathe!</i>
+Breathe!
 
 1098
 01:22:28,206 --> 01:22:30,231
 Come on, Bella, breathe!
 
-1099
-01:22:33,511 --> 01:22:34,500
-(BELLA SPLUTTERING)
+
 
 1100
 01:22:37,315 --> 01:22:39,943
@@ -4721,9 +4425,7 @@ He's gone.
 Come on. I'll get you something dry
 and drive you home.
 
-1112
-01:23:38,309 --> 01:23:40,038
-(BELLA SHIVERING)
+
 
 1113
 01:23:40,511 --> 01:23:43,071
@@ -4793,9 +4495,7 @@ He'll never be able to take that back.
 01:24:46,110 --> 01:24:48,135
 What if I got mad at you?
 
-1130
-01:24:53,117 --> 01:24:54,414
-(JACOB SIGHS)
+
 
 1131
 01:24:59,590 --> 01:25:01,057
@@ -4834,9 +4534,7 @@ I'll tell you all the time
 01:25:41,232 --> 01:25:43,223
 how special you are.
 
-1140
-01:25:54,712 --> 01:25:55,701
-(BELLA INHALES SHARPLY)
+
 
 1141
 01:26:02,687 --> 01:26:04,917
@@ -4872,9 +4570,7 @@ They're here.
 Bella, it's a trick! Stop!
 You gotta come with me!
 
-1149
-01:26:32,884 --> 01:26:33,873
-(BELLA GRUNTS)
+
 
 1150
 01:26:35,987 --> 01:26:37,614
@@ -4907,9 +4603,7 @@ Then don't draw one.
 01:26:54,639 --> 01:26:55,901
 Please?
 
-1157
-01:27:09,554 --> 01:27:10,543
-(BELLA GASPS)
+
 
 1158
 01:27:12,823 --> 01:27:14,017
@@ -4965,9 +4659,7 @@ Recreationally.
 01:27:40,718 --> 01:27:42,117
 It was fun.
 
-1170
-01:27:43,254 --> 01:27:44,278
-(EXHALES)
+
 
 1171
 01:27:44,622 --> 01:27:48,353
@@ -5139,9 +4831,7 @@ No.
 01:30:28,986 --> 01:30:30,419
 Not that I know of.
 
-1211
-01:30:30,488 --> 01:30:31,512
-(BELLA SCOFFS)
+
 
 1212
 01:30:31,589 --> 01:30:33,147
@@ -5172,25 +4862,17 @@ We don't have to do this to each other.
 01:31:05,122 --> 01:31:06,680
 Yes, we do.
 
-1219
-01:31:18,536 --> 01:31:19,867
-(SOFTLY) Bella...
+ Bella...
 
-1220
-01:31:24,208 --> 01:31:25,436
-(SPEAKS QUILEUTE)
 
-1221
-01:31:33,918 --> 01:31:36,512
-(PHONE RINGING)
+
+
 
 1222
 01:31:42,760 --> 01:31:44,352
 Swan residence.
 
-1223
-01:31:45,129 --> 01:31:46,118
-(SIGHS)
+
 
 1224
 01:31:50,134 --> 01:31:52,227
@@ -5200,9 +4882,7 @@ He's not here right now.
 01:31:52,937 --> 01:31:54,837
 He's arranging a funeral.
 
-1226
-01:32:03,814 --> 01:32:05,509
-(CELL PHONE CRACKING)
+
 
 1227
 01:32:10,788 --> 01:32:12,415
@@ -5255,8 +4935,8 @@ He wants to die, too.
 
 1238
 01:32:42,353 --> 01:32:45,481
-<i>JACOB: He left you, Bella.
-He didn't want you anymore. Remember?</i>
+JACOB: He left you, Bella.
+He didn't want you anymore. Remember?
 
 1239
 01:32:45,556 --> 01:32:49,014
@@ -5308,13 +4988,9 @@ Goodbye, Jacob.
 01:33:36,407 --> 01:33:37,601
 Okay.
 
-1251
-01:33:45,749 --> 01:33:48,047
-(AIRPLANE WHOOSHING)
 
-1252
-01:34:11,408 --> 01:34:12,534
-(CAR ACCELERATING)
+
+
 
 1253
 01:34:39,069 --> 01:34:41,401
@@ -5387,12 +5063,10 @@ They refused him.
 
 1269
 01:35:39,997 --> 01:35:43,023
-<i>ALICE: He's gonna wait until noon,
-when the sun's at its highest.</i>
+ALICE: He's gonna wait until noon,
+when the sun's at its highest.
 
-1270
-01:35:43,100 --> 01:35:44,089
-(GRUNTS)
+
 
 1271
 01:35:45,803 --> 01:35:46,997
@@ -5402,21 +5076,13 @@ God, Alice, you got to hurry up.
 01:35:47,071 --> 01:35:48,971
 There's Volterra.
 
-1273
-01:35:59,183 --> 01:36:00,172
-(HORN HONKING)
 
-1274
-01:36:02,786 --> 01:36:03,775
-(TIRES SQUEALING)
 
-1275
-01:36:06,190 --> 01:36:08,385
-(HONKING CONTINUES)
 
-1276
-01:36:10,527 --> 01:36:12,085
-(PEOPLE CHATTERING)
+
+
+
+
 
 1277
 01:36:13,731 --> 01:36:16,564
@@ -5437,17 +5103,13 @@ It's the perfect setting.
 The Volturi will never let him get far enough
 to reveal himself.
 
-1281
-01:36:23,674 --> 01:36:25,403
-(PANTING) We have five minutes.
+ We have five minutes.
 
 1282
 01:36:25,475 --> 01:36:27,739
 I know, Bella, just breathe.
 
-1283
-01:36:29,046 --> 01:36:30,604
-(HORN HONKING)
+
 
 1284
 01:36:33,751 --> 01:36:34,740
@@ -5468,21 +5130,15 @@ He'll think I'm lying. He'll rush into it.
 - Where do I go?
 - He'll be under the clock tower. Go!
 
-1288
-01:37:11,288 --> 01:37:13,449
-(CROWD CHANTING)
 
-1289
-01:37:50,460 --> 01:37:52,394
-(BELL TOLLS)
+
+
 
 1290
 01:38:36,707 --> 01:38:38,038
 Don't!
 
-1291
-01:38:38,108 --> 01:38:39,336
-(BELLA PANTING)
+
 
 1292
 01:38:40,110 --> 01:38:41,270
@@ -5571,9 +5227,7 @@ Bella, you're everything to me.
 01:40:15,005 --> 01:40:16,700
 You're everything.
 
-1312
-01:40:34,758 --> 01:40:35,952
-(GATE OPENS)
+
 
 1313
 01:40:42,432 --> 01:40:44,525
@@ -5610,9 +5264,7 @@ The girl comes with us.
 01:40:58,782 --> 01:41:00,477
 No. You can go to hell.
 
-1321
-01:41:00,550 --> 01:41:01,539
-(LOCK BREAKS)
+
 
 1322
 01:41:02,853 --> 01:41:04,445
@@ -5659,17 +5311,11 @@ Are you?
 01:41:51,435 --> 01:41:52,527
 No.
 
-1333
-01:41:52,602 --> 01:41:53,591
-(JANE SCOFFS)
 
-1334
-01:42:07,984 --> 01:42:10,578
-<i>(OPERA PLAYING)</i>
 
-1335
-01:42:24,768 --> 01:42:26,565
-(SPEAKING ITALIAN)
+
+
+
 
 1336
 01:42:31,108 --> 01:42:33,235
@@ -5702,8 +5348,8 @@ Or dessert.
 
 1343
 01:42:57,134 --> 01:43:00,934
-<i>ALEC: Sister. They send you out to get one
-and you bring back two.</i>
+ALEC: Sister. They send you out to get one
+and you bring back two.
 
 1344
 01:43:01,671 --> 01:43:03,138
@@ -5731,23 +5377,17 @@ I love a happy ending.
 
 1350
 01:43:19,055 --> 01:43:20,044
-<i>ARO: Ah.</i>
+ARO: Ah.
 
-1351
-01:43:20,123 --> 01:43:21,112
-(GASPS)
+
 
 1352
 01:43:22,392 --> 01:43:24,223
 They are so rare.
 
-1353
-01:43:26,263 --> 01:43:27,252
-(GASPS)
 
-1354
-01:43:28,465 --> 01:43:30,126
-(SPEAKING ITALIAN)
+
+
 
 1355
 01:43:31,067 --> 01:43:33,592
@@ -5766,9 +5406,7 @@ How can you stand to be so close to her?
 - It's not without difficulty.
 - Yes, I can see that.
 
-1359
-01:43:43,013 --> 01:43:44,207
-(ARO CHUCKLING)
+
 
 1360
 01:43:46,349 --> 01:43:49,910
@@ -5835,21 +5473,17 @@ Shall we, Jane?
 - No!
 - Pain.
 
-1375
-01:45:15,038 --> 01:45:16,266
-(GROANS)
+
 
 1376
 01:45:29,886 --> 01:45:31,217
-<i>BELLA: Stop!</i>
+BELLA: Stop!
 
 1377
 01:45:32,055 --> 01:45:33,784
 Stop! Please! Stop!
 
-1378
-01:45:33,857 --> 01:45:37,725
-(GRUNTS) Stop! Just stop hurting him!
+ Stop! Just stop hurting him!
 Please! Please!
 
 1379
@@ -5860,9 +5494,7 @@ Jane?
 01:45:42,766 --> 01:45:43,755
 Master?
 
-1381
-01:45:43,833 --> 01:45:44,822
-(GASPS)
+
 
 1382
 01:45:48,338 --> 01:45:50,067
@@ -5872,9 +5504,7 @@ Go ahead, my dear.
 01:45:55,578 --> 01:45:57,773
 This may hurt just a little.
 
-1384
-01:46:10,026 --> 01:46:12,358
-(LAUGHING EXCITEDLY)
+
 
 1385
 01:46:13,930 --> 01:46:15,397
@@ -5915,11 +5545,9 @@ Felix?
 
 1394
 01:46:47,497 --> 01:46:48,555
-<i>EDWARD: No!</i>
+EDWARD: No!
 
-1395
-01:47:21,431 --> 01:47:22,420
-(GASPS)
+
 
 1396
 01:47:50,126 --> 01:47:53,220
@@ -5954,9 +5582,7 @@ Just get away from her!
 01:48:31,401 --> 01:48:35,838
 You don't know a thing about his soul.
 
-1404
-01:48:37,640 --> 01:48:43,442
-(SPEAKING ITALIAN)
+
 
 1405
 01:48:47,450 --> 01:48:49,145
@@ -6026,7 +5652,7 @@ Thank you for your visit.
 
 1421
 01:50:29,819 --> 01:50:31,377
-<i>CAIUS: We will return the favor.</i>
+CAIUS: We will return the favor.
 
 1422
 01:50:31,454 --> 01:50:34,423
@@ -6039,15 +5665,13 @@ We do not offer second chances.
 
 1424
 01:50:38,494 --> 01:50:41,588
-<i>ARO: Goodbye, my young friends.</i>
+ARO: Goodbye, my young friends.
 
-1425
-01:50:46,869 --> 01:50:47,893
-(PEOPLE CHATTERING)
+
 
 1426
 01:50:47,971 --> 01:50:49,802
-<i>DEMETRl: Nice fishing, Heidi.</i>
+DEMETRl: Nice fishing, Heidi.
 
 1427
 01:50:49,872 --> 01:50:52,102
@@ -6059,19 +5683,13 @@ Save some for me.
 
 1429
 01:50:54,877 --> 01:50:57,675
-<i>HEIDl: This way, please. Stay together.</i>
+HEIDl: This way, please. Stay together.
 
-1430
-01:51:06,889 --> 01:51:08,823
-(PEOPLE SCREAMING)
 
-1431
-01:51:10,226 --> 01:51:11,124
-(GASPING)
 
-1432
-01:51:11,194 --> 01:51:12,252
-<i>(SCREAMS ECHOING)</i>
+
+
+
 
 1433
 01:51:12,328 --> 01:51:13,852
@@ -6115,9 +5733,7 @@ It was so easy for you to leave.
 Leaving you was the hardest thing
 I've done in 100 years.
 
-1443
-01:52:10,353 --> 01:52:12,548
-(SIGHING)
+
 
 1444
 01:52:14,724 --> 01:52:16,282
@@ -6274,7 +5890,7 @@ I already consider you my sister.
 
 1480
 01:55:10,433 --> 01:55:11,923
-<i>JASPER: I vote "yes."</i>
+JASPER: I vote "yes."
 
 1481
 01:55:13,369 --> 01:55:16,861
@@ -6287,7 +5903,7 @@ Hmm.
 
 1483
 01:55:19,876 --> 01:55:21,207
-<i>ROSALIE: I'm sorry.</i>
+ROSALIE: I'm sorry.
 
 1484
 01:55:23,112 --> 01:55:26,240
@@ -6358,16 +5974,14 @@ I won't lose my son.
 
 1499
 01:56:23,105 --> 01:56:27,132
-<i>BELLA: I'll wait until after graduation
-to make it easier on Charlie.</i>
+BELLA: I'll wait until after graduation
+to make it easier on Charlie.
 
 1500
 01:56:32,148 --> 01:56:35,083
 Edward, I want you to be the one to do it.
 
-1501
-01:56:37,753 --> 01:56:38,742
-(TIRES SCREECH)
+
 
 1502
 01:56:42,058 --> 01:56:44,151
@@ -6375,16 +5989,16 @@ He wants to talk to me.
 
 1503
 01:56:47,296 --> 01:56:48,923
-<i>JACOB: So you're still alive for now.</i>
+JACOB: So you're still alive for now.
 
 1504
 01:56:48,998 --> 01:56:51,466
-<i>EDWARD: He thinks it's me keeping
-you away.</i>
+EDWARD: He thinks it's me keeping
+you away.
 
 1505
 01:56:51,534 --> 01:56:54,025
-<i>JACOB: You stay the hell out of my head.</i>
+JACOB: You stay the hell out of my head.
 
 1506
 01:56:55,137 --> 01:56:58,629
@@ -6497,9 +6111,7 @@ Jake,
 01:58:28,197 --> 01:58:29,789
 I love you.
 
-1532
-01:58:29,999 --> 01:58:31,762
-(JACOB BREATHES DEEPLY)
+
 
 1533
 01:58:34,503 --> 01:58:36,164
@@ -6526,13 +6138,9 @@ Bella...
 - Goodbye, Jacob.
 - No, you don't speak for her!
 
-1539
-01:59:16,712 --> 01:59:18,737
-(GROWLING)
 
-1540
-01:59:18,881 --> 01:59:20,178
-(ROARS)
+
+
 
 1541
 01:59:20,249 --> 01:59:22,240
@@ -6540,7 +6148,7 @@ Bella, get out of here.
 
 1542
 01:59:24,019 --> 01:59:25,384
-<i>BELLA: Stop!</i>
+BELLA: Stop!
 
 1543
 01:59:27,590 --> 01:59:28,887
@@ -6579,9 +6187,7 @@ Just give me five years.
 02:00:38,994 --> 02:00:40,621
 That's too long.
 
-1552
-02:00:41,597 --> 02:00:42,586
-(SIGHS)
+
 
 1553
 02:00:45,100 --> 02:00:46,567
@@ -6619,301 +6225,295 @@ That's what I'm asking.
 02:01:37,086 --> 02:01:38,747
 Marry me, Bella.
 
-1562
-02:01:42,825 --> 02:01:43,814
-(GASPS)
 
-1563
-02:04:01,964 --> 02:04:03,693
-<i>(A WHITE DEMON LO VE SONG</i> PLAYING)
+
+
 
 1564
 02:04:13,308 --> 02:04:17,176
-<i>White demon love song down the hall</i>
+White demon love song down the hall
 
 1565
 02:04:18,881 --> 02:04:23,215
-<i>White demon shadow on the road</i>
+White demon shadow on the road
 
 1566
 02:04:24,420 --> 02:04:28,516
-<i>Back up your mind, there is a call</i>
+Back up your mind, there is a call
 
 1567
 02:04:29,925 --> 02:04:33,656
-<i>He isn't coming after all</i>
+He isn't coming after all
 
 1568
 02:04:33,729 --> 02:04:35,924
-<i>Love this time</i>
+Love this time
 
 1569
 02:04:35,998 --> 02:04:40,162
-<i>She likes the way he sings</i>
+She likes the way he sings
 
 1570
 02:04:41,003 --> 02:04:44,962
-<i>White demon love song's in her dreams</i>
+White demon love song's in her dreams
 
 1571
 02:04:49,211 --> 02:04:53,443
-<i>White demon, where's your selfish kiss?</i>
+White demon, where's your selfish kiss?
 
 1572
 02:04:54,750 --> 02:04:59,119
-<i>White demon sorrow will arrange</i>
+White demon sorrow will arrange
 
 1573
 02:05:00,289 --> 02:05:04,453
-<i>Let's not forget about the fear</i>
+Let's not forget about the fear
 
 1574
 02:05:05,761 --> 02:05:11,165
-<i>Black invitation to this place
-that cannot change</i>
+Black invitation to this place
+that cannot change
 
 1575
 02:05:11,233 --> 02:05:16,466
-<i>While strangely holy</i>
+While strangely holy
 
 1576
 02:05:16,705 --> 02:05:19,902
-<i>Come for a rain</i>
+Come for a rain
 
 1577
 02:05:25,414 --> 02:05:30,477
-<i>White demon, widen your heart's scope</i>
+White demon, widen your heart's scope
 
 1578
 02:05:30,953 --> 02:05:36,391
-<i>White demon, who let your friend go?</i>
+White demon, who let your friend go?
 
 1579
 02:05:36,458 --> 02:05:41,327
-<i>White demon, widen your heart's scope</i>
+White demon, widen your heart's scope
 
 1580
 02:05:41,964 --> 02:05:48,733
-<i>White demon, who let your friend go?</i>
+White demon, who let your friend go?
 
 1581
 02:05:51,607 --> 02:05:57,068
-<i>- Let us be in love
-- Let us be in love</i>
+- Let us be in love
+- Let us be in love
 
 1582
 02:05:57,145 --> 02:06:02,549
-<i>- Let's do old and gray
-- Let's do old and gray</i>
+- Let's do old and gray
+- Let's do old and gray
 
 1583
 02:06:02,618 --> 02:06:08,079
-<i>- I won't make you cry
-- I won't make you cry</i>
+- I won't make you cry
+- I won't make you cry
 
 1584
 02:06:08,156 --> 02:06:13,594
-<i>- I will never stray
-- I will never stray</i>
+- I will never stray
+- I will never stray
 
 1585
 02:06:13,662 --> 02:06:19,123
-<i>- I will do my part
-- I will do my part</i>
+- I will do my part
+- I will do my part
 
 1586
 02:06:19,201 --> 02:06:24,730
-<i>Let us be in love tonight</i>
+Let us be in love tonight
 
 1587
 02:06:24,806 --> 02:06:30,108
-<i>White demon, widen your heart's scope</i>
+White demon, widen your heart's scope
 
 1588
 02:06:30,178 --> 02:06:35,309
-<i>White demon, who let your friend go?</i>
+White demon, who let your friend go?
 
 1589
 02:06:35,751 --> 02:06:40,814
-<i>White demon, widen your heart's scope</i>
+White demon, widen your heart's scope
 
 1590
 02:06:41,290 --> 02:06:47,923
-<i>White demon, who let your friend go?</i>
+White demon, who let your friend go?
 
 1591
 02:07:03,979 --> 02:07:08,211
-<i>Stand it anymore, darling</i>
+Stand it anymore, darling
 
 1592
 02:07:09,351 --> 02:07:10,716
-<i>Stand it</i>
+Stand it
 
-1593
-02:07:16,224 --> 02:07:18,556
-<i>(MEET ME ON THE EQUINOX</i> PLAYING)
+
 
 1594
 02:07:19,728 --> 02:07:23,630
-<i>Meet me on the equinox</i>
+Meet me on the equinox
 
 1595
 02:07:23,699 --> 02:07:26,497
-<i>Meet me halfway</i>
+Meet me halfway
 
 1596
 02:07:26,568 --> 02:07:29,867
-<i>When the sun is perched at its highest peak</i>
+When the sun is perched at its highest peak
 
 1597
 02:07:29,938 --> 02:07:33,704
-<i>In the middle of the day</i>
+In the middle of the day
 
 1598
 02:07:33,775 --> 02:07:37,176
-<i>Let me give my love to you</i>
+Let me give my love to you
 
 1599
 02:07:37,713 --> 02:07:40,443
-<i>Let me take your hand</i>
+Let me take your hand
 
 1600
 02:07:40,882 --> 02:07:44,340
-<i>As we walk in the dimming light</i>
+As we walk in the dimming light
 
 1601
 02:07:44,419 --> 02:07:47,547
-<i>Oh, darling, understand</i>
+Oh, darling, understand
 
 1602
 02:07:47,990 --> 02:07:52,950
-<i>That everything, everything ends</i>
+That everything, everything ends
 
 1603
 02:07:55,030 --> 02:08:00,627
-<i>That everything, everything ends</i>
+That everything, everything ends
 
 1604
 02:08:05,941 --> 02:08:09,638
-<i>Meet me on your best behavior</i>
+Meet me on your best behavior
 
 1605
 02:08:09,711 --> 02:08:12,612
-<i>Meet me at your worst</i>
+Meet me at your worst
 
 1606
 02:08:12,681 --> 02:08:16,242
-<i>For there will be no stone unturned</i>
+For there will be no stone unturned
 
 1607
 02:08:16,318 --> 02:08:19,287
-<i>Or bubble left to burst</i>
+Or bubble left to burst
 
 1608
 02:08:19,955 --> 02:08:23,516
-<i>Let me lay beside you, darling</i>
+Let me lay beside you, darling
 
 1609
 02:08:24,026 --> 02:08:27,018
-<i>Let me be your man</i>
+Let me be your man
 
 1610
 02:08:27,095 --> 02:08:30,531
-<i>And let our bodies intertwine</i>
+And let our bodies intertwine
 
 1611
 02:08:30,599 --> 02:08:34,126
-<i>But always understand</i>
+But always understand
 
 1612
 02:08:34,202 --> 02:08:39,469
-<i>That everything, everything ends</i>
+That everything, everything ends
 
 1613
 02:08:41,209 --> 02:08:46,943
-<i>That everything, everything ends</i>
+That everything, everything ends
 
 1614
 02:08:48,250 --> 02:08:54,985
-<i>That everything, everything, everything ends</i>
+That everything, everything, everything ends
 
 1615
 02:08:58,894 --> 02:09:01,488
-<i>A window</i>
+A window
 
 1616
 02:09:02,431 --> 02:09:06,162
-<i>An opened tomb</i>
+An opened tomb
 
 1617
 02:09:06,234 --> 02:09:08,998
-<i>The sun crawls</i>
+The sun crawls
 
 1618
 02:09:09,071 --> 02:09:12,700
-<i>Across your bedroom</i>
+Across your bedroom
 
 1619
 02:09:13,141 --> 02:09:15,336
-<i>A halo</i>
+A halo
 
 1620
 02:09:16,678 --> 02:09:20,205
-<i>A waiting room</i>
+A waiting room
 
 1621
 02:09:20,282 --> 02:09:23,217
-<i>Your last breaths</i>
+Your last breaths
 
 1622
 02:09:23,285 --> 02:09:25,879
-<i>Moving through you</i>
+Moving through you
 
 1623
 02:09:25,954 --> 02:09:31,221
-<i>As everything, everything ends</i>
+As everything, everything ends
 
 1624
 02:09:32,794 --> 02:09:38,391
-<i>As everything, everything, everything</i>
+As everything, everything, everything
 
 1625
 02:09:38,467 --> 02:09:44,895
-<i>Everything, everything, everything ends</i>
+Everything, everything, everything ends
 
 1626
 02:09:50,746 --> 02:09:54,546
-<i>Meet me on the equinox</i>
+Meet me on the equinox
 
 1627
 02:09:54,916 --> 02:09:57,510
-<i>Meet me halfway</i>
+Meet me halfway
 
 1628
 02:09:57,586 --> 02:10:01,044
-<i>When the sun is perched at its highest peak</i>
+When the sun is perched at its highest peak
 
 1629
 02:10:01,123 --> 02:10:04,388
-<i>In the middle of the day</i>
+In the middle of the day
 
 1630
 02:10:04,926 --> 02:10:08,862
-<i>Let me give my love to you</i>
+Let me give my love to you
 
 1631
 02:10:08,930 --> 02:10:11,455
-<i>Let me take your hand</i>
+Let me take your hand
 
 1632
 02:10:12,033 --> 02:10:15,332
-<i>And as we walk in the dimming light</i>
+And as we walk in the dimming light
 
 1633
 02:10:15,403 --> 02:10:18,566
-<i>Oh, darling, understand</i>
+Oh, darling, understand
 
 1634
 02:10:18,707 --> 02:10:25,237
-<i>That everything, everything ends</i>
+That everything, everything ends
 
