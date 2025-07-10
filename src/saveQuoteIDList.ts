@@ -6,7 +6,7 @@ async function main() {
     for (let i = 1; i <= 5; i++) {
         let data: string | undefined;
         try {
-            data = fs.readFileSync(path.join(__dirname, `./subtitles/${i}.srt`), 'utf8');
+            data = fs.readFileSync(path.join(__dirname, `./subtitles/new/${i}.srt`), 'utf8');
         } catch (err) {
             console.error('Error reading file:', err);
             continue;
@@ -15,7 +15,7 @@ async function main() {
         // get subtitle numbers
         if (data != undefined) {            
             let subtIDStr: RegExpMatchArray | null;
-            subtIDStr = data.match(/[0-9]+(?=\n.+-->.+\n.+(\n.+)*)/g);
+            subtIDStr = data.match(/\d+(?=(\n.+)+)/g);
             
             if (subtIDStr == null) {
                 console.log(`no matches found for ${i}.srt`);
