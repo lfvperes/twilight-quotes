@@ -1,6 +1,14 @@
-.vscode
-node_modules
+# Dependency directories
+node_modules/
 
-test*
+# local configuration
+.vscode/
 
+# environment variable files
+.env
+
+# compiled files
 *.js
+
+# local files and assets
+test.*
