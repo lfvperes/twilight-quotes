@@ -4,7 +4,7 @@ import * as process from 'process';
 import * as path from 'path';
 import readFileToString from './src/readFile';
 import * as fs from 'fs';
-import { randomQuote } from './getRndQuote'
+import { randomQuote } from './src/getRndQuote'
 
 dotenv.config();
 
@@ -13,7 +13,7 @@ const agent = new BskyAgent({
     service: 'https://bsky.social',
   })
 
-const textContent = randomQuote();
+const textContent: string = randomQuote();
 
 async function main() {
     await agent.login({
@@ -22,10 +22,6 @@ async function main() {
     })
     console.log(`Logged in as ${agent.session?.handle}`);
     
-    // await agent.post(
-    //     await createVideoPost(textPath, videoPath, agent)
-    // );
-
     const recordObj = await agent.post({
         text: textContent
     })
