@@ -35,6 +35,7 @@ var __importStar = (this && this.__importStar) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 const api_1 = require("@atproto/api");
 const dotenv = __importStar(require("dotenv"));
+const process = __importStar(require("process"));
 const getRndQuote_1 = require("./src/getRndQuote");
 dotenv.config();
 // Create a Bluesky Agent 
@@ -43,15 +44,14 @@ const agent = new api_1.BskyAgent({
 });
 const textContent = (0, getRndQuote_1.randomQuote)();
 async function main() {
-    // await agent.login({
-    //     identifier: process.env.BLUESKY_USERNAME!, 
-    //     password: process.env.BLUESKY_PASSWORD!
-    // })
-    // console.log(`Logged in as ${agent.session?.handle}`);
-    // const recordObj = await agent.post({
-    //     text: textContent
-    // })
-    // console.log(`Just posted: ${textContent} at ${recordObj.uri}`)
-    console.log(textContent);
+    await agent.login({
+        identifier: process.env.BLUESKY_USERNAME,
+        password: process.env.BLUESKY_PASSWORD
+    });
+    console.log(`Logged in as ${agent.session?.handle}`);
+    const recordObj = await agent.post({
+        text: textContent
+    });
+    console.log(`Just posted: ${textContent} at ${recordObj.uri}`);
 }
 main();
