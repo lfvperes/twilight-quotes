@@ -8,12 +8,17 @@ function removeTimestamps(text: string) {
 
 function joinPhrases(text: string) {
     console.log("Joining incomplete quotes");
-    // if phrase starts lowercase move to previous block
+    // if first phrase starts lowercase move to previous block
     // works even with timestamps
     text = text.replaceAll(/\n{2}\d+(\n.+-->.+)*(?=\n[a-z])/g, '');
 
-    // join all lines in one
-    text = text.replaceAll(/(?<=[a-z])\n(?=[a-z])/g, ' ');
+    // block ending in comma, gets next block joined to it
+    text = text.replaceAll(/(?<=,)\n{2}\d+(\n.+-->.+)*/g, '');
+
+    // multiline blocks with split phrases turn into one line
+    text = text.replaceAll(/(?<=[a-z'\dI])\n(?=[a-z])/g, ' ');
+    // line ends in comma, next line has anything but a newline character, join them
+    text = text.replaceAll(/(?<=,)\n(?=.)/g, ' ');
     
     return text;
 }
@@ -23,10 +28,12 @@ function removeItalic(text: string) {
     return text.replaceAll(/<\/?i>/g, '');
 }
 
-function removeMusicQuote(text: string) {
+function removeMusicQuotes(text: string) {
     console.log("Removing music quotes");
     // works even with timestamps
-    return text.replaceAll(/[0-9]+(\n.+-->.+)*\n.*(\(.+PLAYING\)|♪).*\n{2}/g,'');
+    let noSymbol = text.replaceAll(/\n[0-9]+(\n.+-->.+)*\n.*(♪)(.+\n)+/g,'');
+    let noDesc = noSymbol.replaceAll(/\n[0-9]+(\n.+-->.+)*\n.*\(.*PLAYING.*\).*\n/g,'');
+    return noDesc;
 }
 
 function removeFontClrTag(text: string) {
@@ -35,7 +42,7 @@ function removeFontClrTag(text: string) {
 }
 function removeAllCapsPrths(text: string) {
     console.log("Removing parenthesis description");
-    return text.replaceAll(/[0-9]+(\n.+-->.+)*\n\([A-Z]+\)\n{2}/g,'');
+    return text.replaceAll(/[0-9]+(\n.+-->.+)*\n\([A-Z\s]+\)\n{2}/g,'');
 }
 
 function correctNewlineFormat(filePath: string) {
@@ -51,7 +58,7 @@ function correctNewlineFormat(filePath: string) {
 
 async function cleanText(filename: string) {
     let content: string | undefined;
-    let filePath = path.join(__dirname, `./subtitles/original/${filename}.srt`);
+    let filePath = path.join(__dirname, `../subtitles/original/${filename}`);
     console.log(`\nCleaning text from file ${path.basename(filePath)}...`);
     try {
         const rawContent = fs.readFileSync(filePath, 'binary');
@@ -67,36 +74,47 @@ async function cleanText(filename: string) {
     // get subtitle numbers
     if (content != undefined) {            
         let cleanText: string;
+        cleanText = content
+        let fileNum = Number(path.parse(filename).name);
 
         cleanText = removeTimestamps(content);
-        switch (Number(filename)) {
+        switch (fileNum) {
             case 1:
-                    cleanText = removeMusicQuote(cleanText);
+                cleanText = removeMusicQuotes(cleanText);
                 break;            
             case 2:
                     cleanText = removeItalic(cleanText);
-                    // cleanText = removeAllCapsPrths(cleanText);
+                    cleanText = removeMusicQuotes(cleanText);
+                    cleanText = removeAllCapsPrths(cleanText);
                 break;            
             case 3:
                     cleanText = removeItalic(cleanText);
-                    cleanText = removeMusicQuote(cleanText);
-                    // cleanText = removeAllCapsPrths(cleanText);
+                    cleanText = removeMusicQuotes(cleanText);
+                    cleanText = removeAllCapsPrths(cleanText);
                 break;
             case 4:
-                    cleanText = removeMusicQuote(cleanText);
-                    // cleanText = removeAllCapsPrths(cleanText);
+                cleanText = removeMusicQuotes(cleanText);
+                cleanText = removeAllCapsPrths(cleanText);
                 break;
             case 5:
-                    cleanText = removeFontClrTag(cleanText);
-                    // cleanText = removeAllCapsPrths(cleanText);
+                cleanText = removeFontClrTag(cleanText);
+                cleanText = removeMusicQuotes(cleanText);
+                    cleanText = removeAllCapsPrths(cleanText);
                 break;
             default:
                 break;
         }
         cleanText = joinPhrases(cleanText);
         
-        let newPath = path.join(__dirname, `./subtitles/new/${path.basename(filePath)}`);
+        let newPath = path.join(__dirname, `../subtitles/new/${path.basename(filePath)}`);
         fs.writeFileSync(newPath, cleanText, 'utf8');            
         console.log(`Done cleaning ${path.basename(filePath)}, new file at ${path.relative('',newPath)}`);
     }
 }
+
+for (let i = 1; i <= 5; i++) {
+    cleanText(`${i}.srt`)
+    
+}
+
+// cleanText('1.srt');

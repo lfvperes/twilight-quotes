@@ -6,7 +6,7 @@ async function main() {
     for (let i = 1; i <= 5; i++) {
         let data: string | undefined;
         try {
-            data = fs.readFileSync(path.join(__dirname, `./subtitles/new/${i}.srt`), 'utf8');
+            data = fs.readFileSync(path.join(__dirname, `../subtitles/new/${i}.srt`), 'utf8');
         } catch (err) {
             console.error('Error reading file:', err);
             continue;
@@ -28,7 +28,7 @@ async function main() {
         }
     }
     const arrayIDStr = allIDs.join('\n') + '\n';
-    fs.writeFileSync(path.join(__dirname, `allIDs.txt`), arrayIDStr, 'utf8');
+    fs.writeFileSync(path.join(__dirname, `../assets/allIDs.txt`), arrayIDStr, 'utf8');
 
 }
 
