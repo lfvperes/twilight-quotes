@@ -12,7 +12,6 @@ What do you want?
 
 14
 "Some say the world will end in fire"
-"Some say the world will end in fire"
 
 15
 "Some say in ice"
@@ -567,7 +566,6 @@ No, she won't!
 
 216
 Emmett, no!
-Emmett, no!
 
 219
 Do you regret going?
@@ -950,7 +948,7 @@ Edward, what's wrong?
 Someone's been in here.
 
 353
-DR. Who was it?
+Who was it?
 Someone we know?
 
 354
@@ -993,7 +991,7 @@ We'll also take shifts guarding Bella at her house.
 Another protection detail?
 
 367
-DR. Rosalie.
+Rosalie.
 
 368
 No, she's right.
@@ -1046,7 +1044,6 @@ I'm tired of this.
 From now on, I'm Switzerland, okay?
 
 384
-Edward hated the idea, but it wasn't about rivalry anymore.
 Edward hated the idea, but it wasn't about rivalry anymore.
 
 386
@@ -1301,7 +1298,7 @@ And they've been created to fight someone.
 We're the only clan even close to Seattle.
 
 493
-DR. Regardless of why they were made, if we don't put a stop to them, the Volturi will.
+Regardless of why they were made, if we don't put a stop to them, the Volturi will.
 
 495
 I'm surprised they've let it go on this long.
@@ -1508,7 +1505,6 @@ Jacob, just go, okay?
 
 574
 Hey, hey, hey! Easy, guys. Easy.
-Hey, hey, hey! Easy, guys. Easy.
 
 575
 Let's take it down a notch. All right?
@@ -1529,7 +1525,7 @@ Punching my face.
 Total misunderstanding.
 
 581
-DR. It's just a sprain.
+It's just a sprain.
 
 582
 It should heal fairly quickly.
@@ -2001,7 +1997,7 @@ Sam would agree to an understanding?
 As long as we get to kill some vampires.
 
 758
-DR. Jasper?
+Jasper?
 
 759
 They'll give us the numbers.
@@ -3104,7 +3100,6 @@ Jake, stop!
 
 1170
 Jake, please!
-Jake, please!
 I'm done! I'm so done!
 
 1171
@@ -3290,7 +3285,7 @@ How long?
 A few minutes. Maybe 10?
 
 1248
-DR. The pack needs to leave.
+The pack needs to leave.
 
 1249
 The Volturi won't honor a truce with the werewolves.
@@ -3400,7 +3395,7 @@ Her name was Victoria.
 Perhaps you knew her.
 
 1286
-DR. Edward, if the Volturi had knowledge of Victoria, they would have stopped her.
+Edward, if the Volturi had knowledge of Victoria, they would have stopped her.
 
 1288
 Isn't that right, Jane?
