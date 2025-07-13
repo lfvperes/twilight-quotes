@@ -3,12 +3,13 @@ node_modules/
 
 # local configuration
 .vscode/
+.continue
 
 # environment variable files
 .env
 
 # compiled files
-# *.js
+*.js
 
 # local files and assets
 test.*

@@ -1,13 +1,18 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-export function randomQuote() {
+export function randomQuote(movieNumber?: number) {
     const DBPath = '../assets/allIDs.txt';
     const allIDsStr = fs.readFileSync(path.join(__dirname, DBPath), 'utf8');
-    const allIDs: number[] = allIDsStr.split('\n').filter(Boolean).map(Number);
+    const allIDs: number[] = allIDsStr.split('\n')
+        .filter(line => {
+            if (movieNumber == undefined || movieNumber < 1 || movieNumber > 5) return true;
+            else return line.startsWith(`${movieNumber}`);
+        })
+        .map(Number);
     
     const chooseID = Math.floor(Math.random() * allIDs.length);
-    console.log(`ID stored in ${chooseID}: ${allIDs[chooseID]}`)
+    // console.log(`ID stored in ${chooseID}: ${allIDs[chooseID]}`)
     
     const fileNumber = Math.floor(allIDs[chooseID] / 10000);
     const quoteIdx = allIDs[chooseID] % 10000;
