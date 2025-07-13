@@ -58,7 +58,7 @@ function correctNewlineFormat(filePath: string) {
 
 function removeCharNames(text: string) {
     console.log("Removing Character Names");
-    return text.replaceAll(/\b[A-Z\.]+(?:\s+[A-Z0-9]+)*:\s/g,'');
+    return text.replaceAll(/\b[A-Z]+\.*(?:\s+[A-Z0-9]+)*:\s/g,'');
 }
 
 async function cleanAllText(filename: string) {

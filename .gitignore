@@ -10,7 +10,7 @@ node_modules/
 
 # compiled and cleaned files
 # *.js
-subtitles/new/
+# subtitles/new/
 
 # local files and assets
 test.*
