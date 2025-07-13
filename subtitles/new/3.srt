@@ -11,7 +11,7 @@ Help!
 What do you want?
 
 14
-BELLA: "Some say the world will end in fire"
+"Some say the world will end in fire"
 
 15
 "Some say in ice"
@@ -164,10 +164,7 @@ Jake was there.
 
 68
 (ON VOICE MAIL)
-Hey, it's Jake. Leave a message.
-
-70
-BELLA: Jacob hadn't talked to me in weeks.
+Hey, it's Jake. Leave a messageJacob hadn't talked to me in weeks.
 
 71
 I wanted to fix it, he just...
@@ -210,11 +207,7 @@ I have until graduation to see him.
 And then I'll be one of you, and he'll hate me forever.
 
 94
-Well, I'm sorry.
-
-96
-JESSICA: No way. Stop.
-MIKE: Throw it away.
+Well, I'm sorryNo way. StopThrow it away.
 
 97
 Good.
@@ -236,10 +229,7 @@ Right? "We are the future."
 "Anything is possible, if you just believe."
 
 102
-Nice.
-
-103
-ERIC: Perfect.
+NicePerfect.
 
 104
 And you got yourself a speech.
@@ -298,13 +288,8 @@ Yeah?
 
 122
 Do you need some help with those?
-
-123
-JESSICA: be sending money
-'cause it's the polite thing to do, and then you'll be raking it in.
-
-125
-MIKE: Wait a minute. People give you money?
+be sending money
+'cause it's the polite thing to do, and then you'll be raking it inWait a minute. People give you money?
 
 127
 I know you know what she saw. Tell me.
@@ -322,10 +307,7 @@ Just that everyone noticed how strange Alice is.
 I think that ship sailed long ago.
 
 132
-I wonder what's wrong.
-
-133
-EDWARD: Their son went missing in Seattle over a year ago.
+I wonder what's wrongTheir son went missing in Seattle over a year ago.
 
 134
 Charlie's doing what he can, but...
@@ -352,11 +334,8 @@ They could see I'm still human.
 It won't get that far.
 
 142
-But we'll go to Seattle if we have to.
-
-143
-CHARLIE: I'll fax these down, first thing.
-MR. BIERS: Thank you.
+But we'll go to Seattle if we have toI'll fax these down, first thing.
+Thank you.
 
 144
 Hey.
@@ -395,10 +374,7 @@ It expires soon, so you might want to use it this weekend.
 Well, I can't just drop everything and go.
 
 156
-It might be your last chance to see her before you graduate.
-
-157
-CHARLIE: Might not be a bad idea.
+It might be your last chance to see her before you graduateMight not be a bad idea.
 
 158
 Get out of town for a couple days.
@@ -417,16 +393,10 @@ Wait. There's two tickets?
 Super.
 
 163
-That makes me really happy.
-
-164
-BELLA: I did want to see my mom.
+That makes me really happyI did want to see my mom.
 
 165
-I wanted to know that her life was full and satisfying.
-
-166
-RENEE: Aren't you gonna miss this?
+I wanted to know that her life was full and satisfyingAren't you gonna miss this?
 
 167
 Can't you just feel the vitamin D
@@ -466,10 +436,7 @@ He moves, you move.
 Like magnets.
 
 181
-I don't know, we're just...
-
-182
-RENEE: In love. I get it.
+I don't know, we're justIn love. I get it.
 
 183
 I just want to make sure you're making the right choices for you.
@@ -494,10 +461,7 @@ I didn't, come on.
 
 191
 Are these all our old trip T-shirts?
-Mmm-hmm.
-
-192
-BELLA: Get out!
+Mmm-hmmGet out!
 I saved them all.
 
 193
@@ -567,7 +531,7 @@ She'll get away!
 No, she won't!
 
 216
-ESME: Emmett, no!
+Emmett, no!
 
 219
 Do you regret going?
@@ -636,10 +600,7 @@ Tell me what?
 Emmett and Paul had a misunderstanding.
 
 241
-It's nothing to worry about.
-
-242
-JACOB: Listen to you.
+It's nothing to worry aboutListen to you.
 
 243
 Did you lie to get her out of town, too?
@@ -720,10 +681,7 @@ Quil? You, too?
 Yep.
 
 272
-Finally made the pack.
-
-273
-EMBRY: I'm glad you're here, Bella.
+Finally made the packI'm glad you're here, Bella.
 
 274
 Maybe we can get a break from Jake's obsessive inner monologue.
@@ -758,10 +716,7 @@ Bella, hi!
 Hey.
 
 285
-I was wondering when we'd see your face around here again.
-
-286
-BELLA: Yeah. Same here.
+I was wondering when we'd see your face around here againYeah. Same here.
 
 287
 Sam, we good?
@@ -950,7 +905,7 @@ Edward, what's wrong?
 Someone's been in here.
 
 353
-DR. CULLEN: Who was it?
+Who was it?
 Someone we know?
 
 354
@@ -981,10 +936,7 @@ Has to be the Volturi.
 I don't think it's the Volturi, either.
 
 363
-I've been watching Aro's decisions, too.
-
-364
-EMMETT: So we keep looking.
+I've been watching Aro's decisions, tooSo we keep looking.
 
 365
 We'll also take shifts guarding Bella at her house.
@@ -993,7 +945,7 @@ We'll also take shifts guarding Bella at her house.
 Another protection detail?
 
 367
-DR. CULLEN: Rosalie.
+Rosalie.
 
 368
 No, she's right.
@@ -1014,10 +966,7 @@ I'm not leaving you here defenseless.
 Well, I'm not gonna let you starve.
 
 374
-And I wouldn't be unprotected. I have...
-
-375
-EDWARD: What?
+And I wouldn't be unprotected. I haveWhat?
 
 376
 Whoever it was, he left his stink behind.
@@ -1038,15 +987,14 @@ I could care less what you need.
 All right, we're done here.
 
 382
-No, you're done here.
-BELLA: Stop!
+No, you're done hereStop!
 
 383
 I'm tired of this.
 From now on, I'm Switzerland, okay?
 
 384
-BELLA: Edward hated the idea, but it wasn't about rivalry anymore.
+Edward hated the idea, but it wasn't about rivalry anymore.
 
 386
 It was about my safety, and Charlie's.
@@ -1132,8 +1080,7 @@ But you are the first outsider. Ever.
 If I had known that, I would have, like...
 
 415
-I don't know, dressed better.
-SETH: Jake!
+I don't know, dressed betterJake!
 
 416
 Hey.
@@ -1229,10 +1176,7 @@ I'm so...
 Yeah. I know.
 
 470
-We'll find you someone to drink.
-
-471
-MALE VAMPIRE: Mine!
+We'll find you someone to drinkMine!
 
 472
 Just try not to get killed, will you?
@@ -1300,7 +1244,7 @@ And they've been created to fight someone.
 We're the only clan even close to Seattle.
 
 493
-DR. CULLEN: Regardless of why they were made, if we don't put a stop to them, the Volturi will.
+Regardless of why they were made, if we don't put a stop to them, the Volturi will.
 
 495
 I'm surprised they've let it go on this long.
@@ -1337,10 +1281,7 @@ You think they should just give up?
 Well, I wouldn't if it were you.
 
 509
-Not ever.
-
-510
-BELLA: I have to figure out what to tell people.
+Not everI have to figure out what to tell people.
 
 511
 Why I won't be home for Christmases, and why I won't visit, why they'll never see me again.
@@ -1388,10 +1329,7 @@ You know, like, I wouldn't be warm, and I wouldn't smell the same.
 You'll always be my Bella.
 
 530
-My Bella, just less fragile.
-
-531
-BELLA: Gosh, it's so pretty here.
+My Bella, just less fragileGosh, it's so pretty here.
 
 532
 So, Alice has planned a big graduation party.
@@ -1506,7 +1444,7 @@ Fine! And she will.
 Jacob, just go, okay?
 
 574
-CHARLIE: Hey, hey, hey! Easy, guys. Easy.
+Hey, hey, hey! Easy, guys. Easy.
 
 575
 Let's take it down a notch. All right?
@@ -1527,7 +1465,7 @@ Punching my face.
 Total misunderstanding.
 
 581
-DR. CULLEN: It's just a sprain.
+It's just a sprain.
 
 582
 It should heal fairly quickly.
@@ -1861,8 +1799,7 @@ Too easy-breezy? Too self-helpful?
 You hated it?
 
 710
-No. I think you pretty much nailed it.
-JESSICA: Yeah?
+No. I think you pretty much nailed itYeah?
 
 711
 It's like I was born to lead, right?
@@ -1893,10 +1830,7 @@ I'm really sorry.
 I brought you something.
 
 723
-A graduation present. I made it myself.
-
-724
-BELLA: Wow.
+A graduation present. I made it myselfWow.
 
 725
 You made this?
@@ -1922,10 +1856,7 @@ You're not going to Seattle.
 No.
 
 732
-They're coming here.
-
-733
-ALICE: They'll be here in four days.
+They're coming hereThey'll be here in four days.
 
 734
 This could turn into a bloodbath.
@@ -1949,10 +1880,7 @@ He didn't start this.
 Whoever did is staying out of the action.
 
 741
-They must be playing with the blind spots in your vision.
-
-742
-JASPER: Either way, the army is coming and there aren't enough of us to protect the town.
+They must be playing with the blind spots in your visionEither way, the army is coming and there aren't enough of us to protect the town.
 
 744
 Hold up. What damn army?
@@ -1999,7 +1927,7 @@ Sam would agree to an understanding?
 As long as we get to kill some vampires.
 
 758
-DR. CULLEN: Jasper?
+Jasper?
 
 759
 They'll give us the numbers.
@@ -3101,7 +3029,7 @@ Don't!
 Jake, stop!
 
 1170
-BELLA: Jake, please!
+Jake, please!
 I'm done! I'm so done!
 
 1171
@@ -3221,10 +3149,7 @@ I told you about their mind tricks.
 
 1215
 I can read her mind.
-So I know what she thinks of you.
-
-1216
-VICTORIA: He's lying.
+So I know what she thinks of youHe's lying.
 
 1217
 She only created you and this army to avenge her true mate, James.
@@ -3280,14 +3205,11 @@ Something is wrong.
 Alice needs us to go.
 
 1246
-Now.
-
-1247
-EDWARD: How long?
+NowHow long?
 A few minutes. Maybe 10?
 
 1248
-DR. CULLEN: The pack needs to leave.
+The pack needs to leave.
 
 1249
 The Volturi won't honor a truce with the werewolves.
@@ -3317,8 +3239,7 @@ Leah!
 I need to set the bones before his accelerated healing kicks in.
 
 1258
-It's already starting.
-EDWARD: We need to get him out of here.
+It's already startingWe need to get him out of here.
 
 1259
 We're not gonna win a fight with the Volturi.
@@ -3338,10 +3259,7 @@ We got you.
 They're coming.
 
 1265
-Impressive.
-
-1266
-JANE: I've never seen a coven escape an assault of this magnitude intact.
+ImpressiveI've never seen a coven escape an assault of this magnitude intact.
 
 1267
 We were lucky.
@@ -3350,10 +3268,7 @@ We were lucky.
 I doubt that.
 
 1269
-It appears we missed an entertaining fight.
-
-1270
-JANE: Yes.
+It appears we missed an entertaining fightYes.
 
 1271
 It's not often we're rendered unnecessary.
@@ -3397,7 +3312,7 @@ Her name was Victoria.
 Perhaps you knew her.
 
 1286
-DR. CULLEN: Edward, if the Volturi had knowledge of Victoria, they would have stopped her.
+Edward, if the Volturi had knowledge of Victoria, they would have stopped her.
 
 1288
 Isn't that right, Jane?
@@ -3436,8 +3351,7 @@ Hey.
 (JACOB SCREAMING)
 
 1300
-It's been going on for a while.
-EMBRY: Doc's re-breaking his bones.
+It's been going on for a whileDoc's re-breaking his bones.
 
 1301
 Why did he have to butt in?
