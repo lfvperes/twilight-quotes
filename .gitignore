@@ -8,9 +8,11 @@ node_modules/
 # environment variable files
 .env
 
-# compiled files
-*.js
+# compiled and cleaned files
+# *.js
+subtitles/new/
 
 # local files and assets
 test.*
 transcripts/
+sample.srt

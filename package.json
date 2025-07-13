@@ -19,7 +19,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "node ./src/cleaningText.js",
+    "test": "node ./test.js",
+    "clean": "node ./src/setup/cleanText.js",
     "start": "node ./index.js"
   },
   "keywords": []

@@ -33,30 +33,32 @@ var __importStar = (this && this.__importStar) || (function () {
     };
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.randomQuote = randomQuote;
 const fs = __importStar(require("fs"));
 const path = __importStar(require("path"));
-function randomQuote(movieNumber) {
-    const DBPath = '../assets/allIDs.txt';
-    const allIDsStr = fs.readFileSync(path.join(__dirname, DBPath), 'utf8');
-    const allIDs = allIDsStr.split('\n')
-        .filter(line => {
-        if (movieNumber == undefined || movieNumber < 1 || movieNumber > 5)
-            return true;
-        else
-            return line.startsWith(`${movieNumber}`);
-    })
-        .map(Number);
-    const chooseID = Math.floor(Math.random() * allIDs.length);
-    // console.log(`ID stored in ${chooseID}: ${allIDs[chooseID]}`)
-    const fileNumber = Math.floor(allIDs[chooseID] / 10000);
-    const quoteIdx = allIDs[chooseID] % 10000;
-    console.log(`ID: ${allIDs[chooseID]}, file ${fileNumber}, quote number ${quoteIdx}`);
-    const data = fs.readFileSync(path.join(__dirname, `../subtitles/new/${fileNumber}.srt`), 'utf8');
-    const regEx = new RegExp(`(?<=${quoteIdx}\n)(.+\n)+`, 'g');
-    const pulledQuote = data.match(regEx);
-    if (pulledQuote != null) {
-        console.log(pulledQuote[0]);
+async function main() {
+    let allIDs = [];
+    for (let i = 1; i <= 5; i++) {
+        let data;
+        try {
+            data = fs.readFileSync(path.join(__dirname, `../subtitles/new/${i}.srt`), 'utf8');
+        }
+        catch (err) {
+            console.error('Error reading file:', err);
+            continue;
+        }
+        // get subtitle numbers
+        if (data != undefined) {
+            let subtIDStr;
+            subtIDStr = data.match(/\d+(?=(\n.+)+)/g);
+            if (subtIDStr == null) {
+                console.log(`no matches found for ${i}.srt`);
+                continue;
+            }
+            const subtIDInt = subtIDStr?.map(idStr => parseInt(idStr) + i * 10000);
+            allIDs.push(...subtIDInt);
+        }
     }
-    return pulledQuote == null ? '' : pulledQuote[0];
+    const arrayIDStr = allIDs.join('\n') + '\n';
+    fs.writeFileSync(path.join(__dirname, `../assets/allIDs.txt`), arrayIDStr, 'utf8');
 }
+main();
