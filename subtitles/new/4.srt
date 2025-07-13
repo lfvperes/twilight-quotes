@@ -1,5 +1,5 @@
 ﻿1
-ARO: Ah!
+Ah!
 
 2
 Valentina has brought us something.
@@ -44,7 +44,7 @@ Oh, I do love weddings.
 No!
 
 17
-BELLA: "Childhood is not from birth to a certain age.
+"Childhood is not from birth to a certain age.
 
 18
 "And at a certain age, the child is grown and puts away childish things.
@@ -81,7 +81,6 @@ Just thinking it's a little much, you know?
 The dress and the shoes, and all of this.
 
 32
-ALICE:
 No, it's exactly enough.
 
 33
@@ -152,7 +151,7 @@ And so for a while, I went off on my own.
 I wanted to know how it felt to hunt.
 
 60
-EDWARD: To taste human blood.
+To taste human blood.
 
 63
 All the men I killed were monsters.
@@ -211,7 +210,7 @@ I mean, someone capable of courage and sacrifice and love.
 What is that?
 
 86
-EMMETT: Come on! Let's go!
+Come on! Let's go!
 I'm late for my bachelor party.
 
 87
@@ -233,7 +232,7 @@ Don't worry, Bella, we'll give him back in plenty of time.
 Okay, go, before they break my house.
 
 94
-EMMETT: Let's go! Let's go!
+Let's go! Let's go!
 
 95
 I'll meet you at the altar.
@@ -290,7 +289,7 @@ Or weird.
 Alice? Bella?
 
 114
-BELLA: In here, Mom.
+In here, Mom.
 
 115
 (GASPS) Oh, my gosh!
@@ -360,23 +359,23 @@ She's right.
 Thank you.
 
 138
-ALICE: Okay.
+Okay.
 
 139
 Time for the dress!
 
 141
-ALICE: Do you wanna see it?
-RENEE: I want to see it!
+Do you wanna see it?
+I want to see it!
 
 143
-ERIC: They have got to be related.
+They have got to be related.
 
 144
 What a gene pool.
 
 145
-ERIC: Seriously.
+Seriously.
 
 146
 You've got some...
@@ -405,7 +404,7 @@ Just don't let me fall, Dad.
 Never.
 
 156
-MINISTER: Ladies and gentlemen, we are gathered here on this glorious day to witness the union of
+Ladies and gentlemen, we are gathered here on this glorious day to witness the union of
 Edward Cullen and Bella Swan.
 
 158
@@ -418,11 +417,11 @@ I, Edward Cullen.
 I, Edward Cullen.
 
 161
-- MINISTER: Take you, Bella Swan.
-- EDWARD: Take you, Bella Swan.
+- Take you, Bella Swan.
+- Take you, Bella Swan.
 
 162
-MINISTER: To have and to hold.
+To have and to hold.
 
 164
 To have and to hold.
@@ -517,7 +516,7 @@ Sparkling fire water.
 Sounds great.
 
 195
-CARMEN: Bella.
+Bella.
 
 196
 Congratulations, Edward.
@@ -544,7 +543,7 @@ Welcome to the family.
 Bienvenida.
 
 203
-BELLA: Thank you.
+Thank you.
 
 204
 Irina.
@@ -584,14 +583,14 @@ With me.
 I'm sorry.
 
 216
-CARMEN: Irina!
-ELEAZAR: Well.
+Irina!
+Well.
 
 217
 Let's not monopolize the bride. Congratulations.
 
 218
-BELLA: Thank you.
+Thank you.
 
 219
 Sorry.
@@ -601,7 +600,7 @@ Well, what's a wedding without some family drama?
 
 221
 Yeah.
-EMMETT: Excuse me.
+Excuse me.
 
 222
 Is this on?
@@ -889,7 +888,7 @@ She's not our concern anymore.
 Let's go, Seth!
 
 327
-BELLA: I'm really, really, really stupid.
+I'm really, really, really stupid.
 
 328
 No, it's all right.
@@ -1004,7 +1003,7 @@ No, we're just passing through.
 Are we close?
 
 376
-EDWARD: That's Isle Esme.
+That's Isle Esme.
 
 377
 It was a gift from Carlisle.
@@ -1061,7 +1060,6 @@ I trust you.
 It's okay.
 
 406
-EDWARD:
 How badly are you hurt?
 
 407
@@ -1177,13 +1175,13 @@ Please.
 Please.
 
 453
-JACOB: Maybe they'll say she was in a car crash.
+Maybe they'll say she was in a car crash.
 
 454
 Or tripped and fell off a cliff.
 
 455
-PAUL: Keep it in play!
+Keep it in play!
 Keep it in play!
 
 456
@@ -1388,7 +1386,7 @@ Whoa!
 
 535
 Alice.
-ALICE: Bella?
+Bella?
 
 536
 Are you all right?
@@ -1409,7 +1407,6 @@ Alice, what did you see?
 Here's Carlisle.
 
 542
-CARLISLE:
 Bella, what's going on?
 
 543
@@ -1478,7 +1475,7 @@ Thing?
 Wait here while we load.
 
 569
-ROSALIE: Hello?
+Hello?
 
 570
 Rosalie.
@@ -1544,7 +1541,7 @@ Hello, Jacob, how are you?
 Listen, just give it to me straight.
 
 592
-BELLA: Jake, is that you?
+Jake, is that you?
 
 593
 She's here? They came home two weeks ago.
@@ -1553,14 +1550,14 @@ She's here? They came home two weeks ago.
 Jake.
 
 595
-BELLA: I'm glad you came.
+I'm glad you came.
 
 596
 Close enough.
 What's your problem?
 
 597
-BELLA: Rose, it's okay.
+Rose, it's okay.
 
 599
 You look terrible.
@@ -1582,7 +1579,7 @@ We didn't know it was even possible.
 
 605
 What is it?
-CARLISLE: I'm not sure.
+I'm not sure.
 
 606
 Ultrasounds and needles won't penetrate the embryonic sac.
@@ -1595,7 +1592,7 @@ And I can't see
 Bella's future anymore.
 
 609
-CARLISLE: We've been researching legends, but there isn't much to go on.
+We've been researching legends, but there isn't much to go on.
 
 610
 What we do know is that it's strong.
@@ -1778,72 +1775,72 @@ I know how this ends.
 And I'm not sticking around to watch.
 
 678
-BELLA: Jacob. Jake, I can do this. I can do this.
+Jacob. Jake, I can do this. I can do this.
 
 679
-JACOB: Don't do this.
+Don't do this.
 
 680
-BELLA: I'm strong enough.
+I'm strong enough.
 I'm strong enough.
 
 681
-ROSALIE: This is none of your business, dog.
+This is none of your business, dog.
 
 682
-BELLA: Jacob, don't go.
+Jacob, don't go.
 
 683
-JACOB: You did this!
+You did this!
 
 684
 Everything's gonna be okay.
 
 685
-ALICE: The fetus isn't good for Bella.
+The fetus isn't good for Bella.
 
 686
-JACOB: I know how this ends.
+I know how this ends.
 
 687
 Don't you even care that it's killing you?
 
 692
-WOLVES: Jake! Jake! Jake!
+Jake! Jake! Jake!
 
 693
 Jake! Jake! Jake!
 
 694
-PAUL: Is it true, Jacob?
-QUIL: What will it be?
+Is it true, Jacob?
+What will it be?
 
 695
-PAUL: It's growing fast.
+It's growing fast.
 
 696
-LEAH: It's unnatural.
-JARED: Dangerous.
+It's unnatural.
+Dangerous.
 
 697
-QUIL: Monstrosity.
-PAUL: An abomination.
+Monstrosity.
+An abomination.
 
 698
-QUIL: On our land.
+On our land.
 
 699
-JARED: We can't allow it.
-QUIL: We can't allow it.
+We can't allow it.
+We can't allow it.
 
 700
-PAUL: We can't allow it.
+We can't allow it.
 
 701
-WOLVES: We can't allow it.
+We can't allow it.
 
 702
-SAM: We have to protect the tribe.
+We have to protect the tribe.
 
 703
 What they've bred won't be able to control its thirst.
@@ -1852,39 +1849,39 @@ What they've bred won't be able to control its thirst.
 Every human will be in danger.
 
 705
-JARED: We're ready.
-LEAH: No time to waste.
+We're ready.
+No time to waste.
 
 706
-JACOB: Now?
+Now?
 
 707
-SAM: We must destroy it before it's born.
+We must destroy it before it's born.
 
 708
-SETH: You mean, kill Bella?
+You mean, kill Bella?
 
 709
-SAM: Her choice affects us all.
+Her choice affects us all.
 
 710
-JACOB: Bella's human.
+Bella's human.
 Our protection applies to her.
 
 711
-LEAH: She's dying anyway!
+She's dying anyway!
 
 713
-SAM: We have real enemies to fight tonight.
+We have real enemies to fight tonight.
 
 714
-JACOB: Tonight?
+Tonight?
 
 715
-SAM: You will fight with us, Jake.
+You will fight with us, Jake.
 
 719
-JACOB: (STRAINING) I will not.
+(STRAINING) I will not.
 
 720
 I am the grandson of Ephraim Black.
@@ -2141,7 +2138,7 @@ You got food in my hair.
 (WOMEN SCREAMING)
 
 817
-CARLISLE: Your rib is cracked.
+Your rib is cracked.
 
 818
 But there are no splinters.
@@ -2248,7 +2245,7 @@ And I don't choose that.
 I don't choose that.
 
 855
-COMMENTATOR: Washington driving in the red zone.
+Washington driving in the red zone.
 
 856
 Almost stripped of the ball.
@@ -2316,7 +2313,7 @@ I have some O negative laid aside for Bella.
 Walk with me.
 
 879
-JACOB: Wait, wait, wait.
+Wait, wait, wait.
 
 880
 You're gonna make her drink that?
@@ -2386,7 +2383,7 @@ I can help someone.
 Well, you sound better.
 
 904
-BELLA: I am.
+I am.
 
 905
 I feel much better.
@@ -2589,7 +2586,6 @@ Emmett will come with us.
 That won't be enough.
 
 976
-CARLISLE:
 We have no choice, Jacob.
 
 977
@@ -2620,7 +2616,7 @@ As strong as the one I was born into.
 I know what I have to do.
 
 986
-SETH: Jake! They're coming.
+Jake! They're coming.
 
 987
 I know.
@@ -2659,8 +2655,8 @@ What do you mean?
 I want Sam to take back Leah and Seth.
 
 1000
-LEAH: What?
-SETH: No way!
+What?
+No way!
 
 1001
 Quiet!
@@ -2791,7 +2787,7 @@ I like Renesmee.
 He likes it.
 
 1052
-EDWARD: Rosalie, pass the morphine.
+Rosalie, pass the morphine.
 
 1054
 Carlisle said the placenta must have detached.
@@ -2812,7 +2808,7 @@ Get him out now!
 Look at me, Bella.
 
 1062
-JACOB: Rosalie, don't!
+Rosalie, don't!
 
 1064
 Alice, get her out of here!
@@ -2841,10 +2837,10 @@ Keep your heart beating.
 No! He's suffocating!
 
 1073
-EDWARD: Okay.
+Okay.
 
 1076
-EDWARD: Hey.
+Hey.
 
 1077
 Hey, hey.
@@ -2859,7 +2855,7 @@ You're beautiful.
 Hey.
 
 1084
-JACOB: Bella?
+Bella?
 
 1085
 Bella?
@@ -2898,7 +2894,7 @@ Come on.
 It's supposed to be working.
 
 1097
-JACOB: Oh, my God.
+Oh, my God.
 
 1098
 Come on.
@@ -2919,7 +2915,7 @@ You deserve to live with this.
 She didn't make it.
 
 1105
-EDWARD: You're not dead.
+You're not dead.
 You're not dead.
 
 1106
@@ -2966,7 +2962,7 @@ It killed her.
 Let's go!
 
 1123
-JACOB: It's like gravity.
+It's like gravity.
 
 1124
 Your whole center shifts.
@@ -3024,17 +3020,16 @@ Whoever a wolf imprints on can't be harmed.
 It's their most absolute law.
 
 1149
-EDWARD:
 She shouldn't be this still.
 
 1150
-CARLISLE: It's the morphine.
+It's the morphine.
 
 1151
-EDWARD: Maybe I was too late.
+Maybe I was too late.
 
 1152
-CARLISLE: No, Edward.
+No, Edward.
 
 1153
 Listen to her heart.
