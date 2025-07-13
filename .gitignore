@@ -11,6 +11,7 @@ tsconfig.json
 
 # source files
 *.ts
+src/setup/*
 
 # local files and assets
 test.*
