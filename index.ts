@@ -11,7 +11,7 @@ dotenv.config();
 // Create a Bluesky Agent 
 const agent = new BskyAgent({
     service: 'https://bsky.social',
-  })
+})
 
 const textContent: string = randomQuote();
 
