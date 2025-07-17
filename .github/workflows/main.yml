@@ -59,7 +59,13 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v4
-      
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+        cache: 'npm'
+
     - name: Download artifact from the last successful build
       uses: dawidd6/action-download-artifact@v6
       with:
