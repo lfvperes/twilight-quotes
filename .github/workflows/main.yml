@@ -80,7 +80,7 @@ jobs:
     - name: Install runtime dependencies
       run: npm ci
 
-      run: |
+    - run: |
         echo "Mock Secret Value: ${{ secrets.MOCK_SECRET }}"
 
     - name: Run start script
