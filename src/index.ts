@@ -30,13 +30,20 @@ async function main() {
     // );
 
     const recordObj = await agent.post({
-        text: "hiiii"
+        text: `testing ${new Date().toLocaleTimeString()}`
     })
 
     console.log("Just posted!")
-    console.log(recordObj.uri)
+    console.log(recordObj)
     
-    await agent.post(makeReplyContent(recordObj, textPath))
+    // await agent.post(makeReplyContent(recordObj, textPath))
+    await agent.post({
+        text: 'reply ok',
+        reply: {
+            root: recordObj,
+            parent: recordObj
+        }
+    })
 
     console.log("Just replied!")    
 }

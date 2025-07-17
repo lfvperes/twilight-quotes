@@ -12,8 +12,9 @@
     "description": "Bluesky Bot",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node ./index.js"
+        "start": "node dist/index.js",
+        "build": "tsc",
+        "test": "jest"
     },
     "keywords": [],
     "author": "",
@@ -23,7 +24,11 @@
     },
     "devDependencies": {
         "@types/fluent-ffmpeg": "^2.1.27",
+        "@types/jest": "^30.0.0",
         "@types/node": "^18.x",
+        "jest": "^30.0.4",
+        "ts-jest": "^29.4.0",
+        "ts-node": "^10.9.2",
         "typescript": "latest"
     }
 }
