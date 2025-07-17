@@ -64,7 +64,7 @@ jobs:
         # on the 'master' branch from the last successful run.
         workflow: main.yml
         branch: master
-        github-token: ${{ secrets.GITHUB_TOKEN }} # Required for permission to search runs
+        github_token: ${{ secrets.GITHUB_TOKEN }} # Required for permission to search runs
         
     - name: Install runtime dependencies
       run: npm ci
