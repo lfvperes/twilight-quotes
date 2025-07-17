@@ -25,6 +25,9 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test --if-present
+      env:
+        BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
     - uses: actions/upload-artifact@v4
       if: success()
       with:
