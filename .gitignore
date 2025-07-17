@@ -4,6 +4,7 @@ node_modules/
 # local configuration
 .vscode/
 .continue/
+.logs
 
 # environment variable files
 .env
