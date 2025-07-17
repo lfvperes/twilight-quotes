@@ -51,12 +51,17 @@ jobs:
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
 
+    # Explicitly grant the permissions this job needs.
+    permissions:
+      actions: read   # Required to search and list workflow runs
+      contents: read  # Required for actions/checkout
+
     steps:
     - name: Check out repository
       uses: actions/checkout@v4
       
     - name: Download artifact from the last successful build
-      uses: dawidd6/action-download-artifact@v3
+      uses: dawidd6/action-download-artifact@v6
       with:
         name: compiled-js
         path: dist/
