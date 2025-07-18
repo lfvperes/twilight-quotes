@@ -91,3 +91,9 @@ jobs:
         BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
       run: npm run start
       
+    - name: Upload compiled code for the next 'run' job to use
+      uses: actions/upload-artifact@v4
+      with:
+        name: compiled-js
+        path: dist/
+      
