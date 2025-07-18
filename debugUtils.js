@@ -1,1 +1,0 @@
-function logValueToFile(value, fileName = "debug_output.txt") { const fs = require('fs'); fs.writeFileSync(fileName, value); console.log(`Debug value written to ${ fileName }`); }
