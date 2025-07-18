@@ -42,7 +42,10 @@ function removeFontClrTag(text: string) {
 }
 function removeAllCapsPrths(text: string) {
     console.log("Removing parenthesis description");
-    return text.replaceAll(/[0-9]+(\n.+-->.+)*\n\([A-Z\s]+\)\n{2}/g,'');
+    // delete blocks ther are only the parenthesis description
+    text = text.replaceAll(/[0-9]+(\n.+-->.+)*\n\([A-Z\s]+\)\n{2}/g,'');
+    // if it's part of a block, just delete the parenthesis description
+    return text.replaceAll(/\([A-Z\s]+\)/g,'');
 }
 
 function correctNewlineFormat(filePath: string) {
