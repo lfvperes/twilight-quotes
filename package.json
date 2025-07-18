@@ -15,7 +15,7 @@
   "main": "index.js",
   "scripts": {
     "setup": "node ./dist/setup/cleanText.js",
-    "start": "node ./index.js",
+    "start": "node ./src/index.js",
     "build": "tsc",
     "test": "jest"
   },
