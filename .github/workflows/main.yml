@@ -68,7 +68,7 @@ jobs:
         node-version: 18.x
         cache: 'npm'
 
-    - name: Download artifact from the last successful build
+    - name: Download artifact from the last successful workflow
       uses: dawidd6/action-download-artifact@v6
       with:
         name: compiled-js
