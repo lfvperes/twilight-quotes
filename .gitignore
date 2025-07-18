@@ -3,16 +3,21 @@ node_modules/
 
 # local configuration
 .vscode/
-.continue
+.continue/
+.logs
 
 # environment variable files
 .env
 
-# compiled and cleaned files
-# *.js
-# subtitles/new/
+# compiled and output files
+*.js
+dist/
+subtitles/new/
 
 # local files and assets
 test.*
 transcripts/
 sample.srt
+
+# local files and assets
+test.*

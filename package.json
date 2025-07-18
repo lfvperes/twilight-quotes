@@ -1,14 +1,9 @@
 {
   "name": "twilight-quotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "",
   "license": "ISC",
   "description": "Bluesky bot",
-  "devDependencies": {
-    "@types/fluent-ffmpeg": "^2.1.27",
-    "@types/node": "latest",
-    "typescript": "^5.8.3"
-  },
   "dependencies": {
     "@atproto/api": "^0.15.23",
     "cron": "^3.1.0",
@@ -19,9 +14,19 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "node ./test.js",
     "clean": "node ./src/setup/cleanText.js",
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^18.x",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "latest"
   },
   "keywords": []
 }
