@@ -14,7 +14,7 @@ export function randomQuote(movieNumber?: number) {
     const chooseID = Math.floor(Math.random() * allIDs.length);
     // console.log(`ID stored in ${chooseID}: ${allIDs[chooseID]}`)
     
-    const fileNumber = Math.floor(allIDs[chooseID] / 10000);
+    const fileNumber: number = Math.floor(allIDs[chooseID] / 10000);
     const quoteIdx = allIDs[chooseID] % 10000;
     console.log(`ID: ${allIDs[chooseID]}, file ${fileNumber}, quote number ${quoteIdx}`);
 
@@ -25,5 +25,13 @@ export function randomQuote(movieNumber?: number) {
         console.log(pulledQuote[0]);
     }
 
-    return pulledQuote == null ? '' : pulledQuote[0];
+    const hashtags = {
+        1: "Twilight",
+        2: "NewMoon",
+        3: "Eclipse",
+        4: "BreakingDawnPt1",
+        5: "BreakingDawnPt2"
+    }
+
+    return pulledQuote == null ? '' : pulledQuote[0] + `#TwilightSaga #${hashtags[fileNumber as keyof typeof hashtags]}`;
 }

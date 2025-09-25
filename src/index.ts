@@ -1,4 +1,4 @@
-import { BskyAgent } from '@atproto/api';
+import { BskyAgent, RichText } from '@atproto/api';
 import * as dotenv from 'dotenv';
 import * as process from 'process';
 import * as path from 'path';
@@ -15,6 +15,10 @@ const agent = new BskyAgent({
 
 const textContent: string = randomQuote();
 
+const rTxt = new RichText({
+    text: textContent
+})
+
 async function main() {
     await agent.login({
         identifier: process.env.BLUESKY_USERNAME!, 
@@ -22,8 +26,11 @@ async function main() {
     })
     console.log(`Logged in as ${agent.session?.handle}`);
     
+    await rTxt.detectFacets(agent)
     const recordObj = await agent.post({
-        text: textContent
+        text: rTxt.text,
+        facets: rTxt.facets,
+        langs: ["en-US"]
     })
 
     console.log(`Just posted: ${textContent} at ${recordObj.uri}`)
