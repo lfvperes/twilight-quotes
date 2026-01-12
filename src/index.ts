@@ -21,7 +21,7 @@ const rTxt = new RichText({
 
 async function main() {
     await agent.login({
-        identifier: process.env.BLUESKY_USERNAME!, 
+        identifier: "quotes-twilight.bsky.social", 
         password: process.env.BLUESKY_PASSWORD!
     })
     console.log(`Logged in as ${agent.session?.handle}`);
